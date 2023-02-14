@@ -1,10 +1,3 @@
----
-title: "Developing the Website"
-date: 2023-02-14T12:53:14-05:00
-draft: false
-summary: How to develop and deploy the website.
----
-
 The website is built with Hugo and deployed on GitHub pages.
 
 ## Install Hugo
