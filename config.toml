@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'PennWest California Programming Club'
 theme = 'ananke'
 publishDir = 'docs'
+[params]
+  homeFeed = "posts"
+  custom_css = ["css/titleblast.css", "css/customfonts.css"]
+
+

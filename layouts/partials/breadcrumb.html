@@ -1,0 +1,10 @@
+<ol class="nav navbar-nav">
+    <ul>
+    {{- range .Ancestors.Reverse }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{- end }}
+    <li class="active" aria-current="page">
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    </ul>
+</ol>

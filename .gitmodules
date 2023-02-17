@@ -1,3 +1,12 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "themes/hugo-theme-console"]
+	path = themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "hugo-classic"]
+	path = hugo-classic
+	url = https://github.com/goodroot/hugo-classic.git
+[submodule "themes/henry"]
+	path = themes/henry
+	url = https://github.com/kaushikgopal/henry-hugo.git
