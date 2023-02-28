@@ -17,16 +17,23 @@ Teams have 48 hours to submit a project in a language of their choice to be judg
 
 The first annual PennWest Programming Club Code Jam will be held on April 1st, 2023.
 
-It will be held in Natalie in the Game Room, the "Energy Zone", next to Chick-Fil-A!
+There will be an in-person gathering from 10 AM to 10 PM In Natalie,  in Natalie in the Game Room, the "Energy Zone", next to Chick-Fil-A. Submissions will be allowed throughout the language.
 
 You can also participate remotely.
 
+# What
+
+Languages can be C/C++, Python, Java, and Javascript.
+
+There will be a set of prompts to choose from that will be revealed on 12:00 am on April 1st. You code throughout the weekend and submit for judgement before 11:59 PM on Sunday.
+
+You can submit either a Github repo link or a zipped version of your files. Your submission will include at least a video or documentation of what your submission should do. Your project must be buildable on Windows; ensure you include build instructions. 
+
+Submissions will be graded on functionality, creativity, performance, and documentation. 
 
 # How
 
-Get together with a few of your friends and sign up using our google form.
-
-Link to be posted soon!
+The submission link will be posted on April 1st. There is no pre-registration. 
 
 
 

@@ -11,7 +11,7 @@ Anyone interested in coding is welcome to attend a programming club meeting.
 We meet on Tuesdays at 11:00 am in Coover 115 on the PennWest campus.
 
 Also join our discord using this link before 2/28/2023: 
-https://discord.gg/aKq4PxYe
+https://discord.gg/Pvv2Eu8FrF
 
 
 
