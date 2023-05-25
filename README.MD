@@ -2,9 +2,7 @@ The website is built with Hugo and deployed on GitHub pages.
 
 ## Install Hugo
 
-First, install [Go](https://go.dev/).
-
-Then install [hugo](https://gohugo.io/). (With [chololatey](https://chocolatey.org/) on windows.)
+Then install [hugo](https://gohugo.io/). (With [chololatey](https://chocolatey.org/) on windows.) `choco install hugo-extended`
 
 `choco install hugo-extended`
 

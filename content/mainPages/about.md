@@ -6,6 +6,9 @@ menu: main
 tags: ["info"]
 ---
 
+Reference for image
+
+{{< figure src=/img/magnifying-glass-solid.svg title="Illustration from Victor Hugo et son temps (1881)" >}}
 
 # Todo:
 
