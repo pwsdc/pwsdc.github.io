@@ -2,7 +2,7 @@
 title: "Second Summer Meeting"
 date: 2023-05-13T15:46:52-04:00
 draft: false
-summary: Second meeting, discussions only, no votes.
+summary: Talked about meeting format, recruiting new members, constitution.
 tags: ["meeting"]
 ---
 
