@@ -3,7 +3,7 @@ title: "3rd Summer Meeting"
 date: 2023-05-21T15:46:52-04:00
 draft: false
 summary: Talked about presentations, calendar, and treasury.
-tags: ["meeting"]
+tags: ["meeting", "logo", "website", "presentations", "academics"]
 ---
 
 # Attending

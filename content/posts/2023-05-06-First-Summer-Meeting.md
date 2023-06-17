@@ -1,9 +1,9 @@
 ---
-title: "First Summer Meeting"
+title: "1st Summer Meeting"
 date: 2023-05-06T12:53:14-05:00
 draft: false
 summary: The first meeting with the new officers of the club.
-tags: ["meeting"]
+tags: ["meeting", "constitution", "goals"]
 ---
 
 ## Attending

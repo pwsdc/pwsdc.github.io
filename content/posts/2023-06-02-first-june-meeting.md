@@ -3,7 +3,7 @@ title: "5th Summer Meeting"
 date: 2023-06-02T15:46:52-04:00
 draft: false
 summary: Talked about website, presentations, treasury.
-tags: ["meeting"]
+tags: ["meeting", "presentations", "treasury"]
 ---
 
 # Attending
