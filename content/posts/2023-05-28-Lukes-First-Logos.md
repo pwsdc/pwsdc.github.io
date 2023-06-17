@@ -3,7 +3,7 @@ title: "4th Summer Meeting - First Logos"
 date: 2023-05-28T15:46:52-04:00
 draft: false
 summary: Talked about logo, presentations, website.
-tags: ["meeting"]
+tags: ["meeting", "logo", "presentations", "calendar", "website"]
 ---
 
 
