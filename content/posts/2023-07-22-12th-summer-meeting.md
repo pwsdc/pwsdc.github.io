@@ -17,6 +17,7 @@ tags: ["logo"]
 
 - Karl presented some logos he had worked on over the last week
 {{< figure src=/img/logo-drafts/2023-07-22-karlhammer.png >}}
+
 - Karl and Christian worked on some abstract logos during the meeting
 {{< figure src=/img/logo-drafts/2023-07-22-karl-and-christian-buggear-1.png >}}
 {{< figure src=/img/logo-drafts/2023-07-22-karl-and-christian-buggear-2.png >}}
