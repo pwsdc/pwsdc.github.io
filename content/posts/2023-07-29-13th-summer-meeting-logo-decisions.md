@@ -10,7 +10,10 @@ tags: ["logo"]
 
 # Attending
 
-- ... tbd
+- Karl Miller
+- Luke Bates
+- Christian Messmer
+- Paul Shriner
   
 
 # Discussions
@@ -71,12 +74,14 @@ The logos being voted on are:
 
 {{< figure src=/img/logo-drafts/2023-07-29-Christian-Software_Development_Club_WIP.png >}}
 
-## Professor Chen email
+## Winner
 
-- ... tbd
+The winner on ranked choice voting, by a considerable margin, was Luke - SDC Computer Chords.
+
+We will iterate and SVG that to produce our final logo.
 
 ## Agenda next Meeting
 
 - Logo iteration
-- 
+- Meeting with professor Chen
 
