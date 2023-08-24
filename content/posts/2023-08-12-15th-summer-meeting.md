@@ -70,5 +70,6 @@ We applied the new logo and redid the server name.
 - Christian and Karl will meet at 12:00 PM on Monday to go to SAI to request about a room also to talk about the Pizza Party
 - Ask around on Monday about this as well
 - Karl and Christian will try to meet 
+- Merch stuff!
 
 

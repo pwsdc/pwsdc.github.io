@@ -1,20 +1,20 @@
 ---
 title: "Join the Club"
-date: 2023-05-14T12:09:26-05:00
+date: 2023-08-23T12:09:26-05:00
 draft: false 
 menu: main
 tags: ["info"]
 ---
 
-Anyone interested in developing software is welcome to attend a Programming Club meeting.
 
-We are meeting remotely on Discord all summer. Check the discord for the latest meeting time; likely Sundays at 5:00 pm.
 
-Last semester, we meet on Tuesdays at 11:00 am in Coover 115 on the PennWest campus, but we may be changing to an Eberly location for Fall of 2023. 
+Discord Invite:
 
-Join our Discord: https://discord.gg/9mkqjeEy
+[https://discord.gg/Pvv2Eu8FrF](https://discord.gg/Pvv2Eu8FrF)
 
-(Link expires 5/21)
+{{< figure src=/img/Discord-Invite.png width="500">}}
+
+Meetings are held in Eberly 342, Thursdays at 11:00 am.
 
 
 
