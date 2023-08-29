@@ -12,6 +12,7 @@ tags: ["logo", "advisor", "content"]
 - Paul Shriner
 - Luke Bates
 - Christian Messmer
+- Jonathan Buckel
 
 # Discussions
 
