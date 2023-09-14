@@ -2,7 +2,7 @@
 title: "2st Fall Meeting"
 date: 2023-08-31T11:00:00-12:00
 draft: false
-summary: logo status, faculty advisor, club meeting
+summary: pizza party, project ideas, club meeting
 tags: ["introduction", "elections", "suggestions", "content"]
 ---
 

@@ -22,7 +22,7 @@ tags: ["introduction", "elections", "suggestions", "content"]
 - Matthew (Williams?)
 - Brandon Mastin
 - Nicky (spelling?, Last name?)
-- Jacob (Last name?)
+- Jakob (Last name?)
 - David (Last name?)
 - William (Last name?)
 
