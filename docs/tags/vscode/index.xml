@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vscode on PennWest Software Development Club</title>
+    <link>https://pennwest-california-programmingclub.github.io/tags/vscode/</link>
+    <description>Recent content in vscode on PennWest Software Development Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Sep 2023 11:00:00 -1200</lastBuildDate><atom:link href="https://pennwest-california-programmingclub.github.io/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4th Fall Meeting - VSCode is Better Than Dev C&#43;&#43;</title>
+      <link>https://pennwest-california-programmingclub.github.io/posts/2023-09-21-4th-fall-meeting-vscode-presentation/</link>
+      <pubDate>Thu, 21 Sep 2023 11:00:00 -1200</pubDate>
+      
+      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-09-21-4th-fall-meeting-vscode-presentation/</guid>
+      <description>club meeting, presentation</description>
+    </item>
+    
+  </channel>
+</rss>
