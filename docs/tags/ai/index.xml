@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ai on PennWest Software Development Club</title>
+    <link>https://pennwest-california-programmingclub.github.io/tags/ai/</link>
+    <description>Recent content in ai on PennWest Software Development Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Sep 2023 11:00:00 -1200</lastBuildDate><atom:link href="https://pennwest-california-programmingclub.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5th Fall Meeting - Right-Click Composer</title>
+      <link>https://pennwest-california-programmingclub.github.io/posts/2023-09-28-5th-fall-meeting-ai/</link>
+      <pubDate>Thu, 28 Sep 2023 11:00:00 -1200</pubDate>
+      
+      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-09-28-5th-fall-meeting-ai/</guid>
+      <description>club meeting, presentation, ai</description>
+    </item>
+    
+  </channel>
+</rss>
