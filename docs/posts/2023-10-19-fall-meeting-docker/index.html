@@ -7,7 +7,7 @@
     <title>8th Fall Meeting - Docker &amp; Microservices | PennWest Software Development Club</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="club meeting, presentation, docker">
-    <meta name="generator" content="Hugo 0.92.2" />
+    <meta name="generator" content="Hugo 0.121.1">
     
     
     
@@ -47,9 +47,8 @@
 <meta itemprop="name" content="8th Fall Meeting - Docker &amp; Microservices">
 <meta itemprop="description" content="club meeting, presentation, docker"><meta itemprop="datePublished" content="2023-10-19T11:00:00-12:00" />
 <meta itemprop="dateModified" content="2023-10-19T11:00:00-12:00" />
-<meta itemprop="wordCount" content="438">
-<meta itemprop="keywords" content="technologies,docker,web,full-stack," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="8th Fall Meeting - Docker &amp; Microservices"/>
+<meta itemprop="wordCount" content="443">
+<meta itemprop="keywords" content="technologies,docker,web,full-stack," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="8th Fall Meeting - Docker &amp; Microservices"/>
 <meta name="twitter:description" content="club meeting, presentation, docker"/>
 
 	
@@ -190,11 +189,11 @@ A Docker Image is the &ldquo;blueprint&rdquo; for creating multiple containers. 
 </ul>
 <h2 id="docker-file-syntax">Docker File Syntax</h2>
 <p>Here is an example of Docker File syntax.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-dockerfile" data-lang="dockerfile"><span style="color:#66d9ef">FROM</span><span style="color:#e6db74"> python:3.11</span><span style="color:#960050;background-color:#1e0010">
-</span><span style="color:#960050;background-color:#1e0010"></span><span style="color:#66d9ef">ADD</span>  requirements.txt .<span style="color:#960050;background-color:#1e0010">
-</span><span style="color:#960050;background-color:#1e0010"></span><span style="color:#66d9ef">RUN</span>  pip install -r requirements.txt<span style="color:#960050;background-color:#1e0010">
-</span><span style="color:#960050;background-color:#1e0010"></span><span style="color:#66d9ef">ADD</span>  src/* /home/app<span style="color:#960050;background-color:#1e0010">
-</span></code></pre></div><p><code>FROM</code> specifies a dependency.
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-dockerfile" data-lang="dockerfile"><span style="display:flex;"><span><span style="color:#66d9ef">FROM</span><span style="color:#e6db74"> python:3.11</span><span style="color:#960050;background-color:#1e0010">
+</span></span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010"></span><span style="color:#66d9ef">ADD</span>  requirements.txt .<span style="color:#960050;background-color:#1e0010">
+</span></span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010"></span><span style="color:#66d9ef">RUN</span>  pip install -r requirements.txt<span style="color:#960050;background-color:#1e0010">
+</span></span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010"></span><span style="color:#66d9ef">ADD</span>  src/* /home/app<span style="color:#960050;background-color:#1e0010">
+</span></span></span></code></pre></div><p><code>FROM</code> specifies a dependency.
 <code>ADD</code> copies a file from your project to the container.
 <code>RUN</code> executes a terminal command in the container.</p>
 <h2 id="live-demo">Live Demo</h2>
