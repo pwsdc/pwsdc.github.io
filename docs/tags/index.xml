@@ -6,13 +6,27 @@
     <description>Recent content in Tags on PennWest Software Development Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Dec 2023 12:09:26 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 19:12:01 -0500</lastBuildDate>
     <atom:link href="https://pennwest-california-programmingclub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>meeting</title>
+      <link>https://pennwest-california-programmingclub.github.io/tags/meeting/</link>
+      <pubDate>Thu, 04 Jan 2024 19:12:01 -0500</pubDate>
+      <guid>https://pennwest-california-programmingclub.github.io/tags/meeting/</guid>
+      <description></description>
+    </item>
     <item>
       <title>presentations</title>
       <link>https://pennwest-california-programmingclub.github.io/tags/presentations/</link>
-      <pubDate>Mon, 18 Dec 2023 12:09:26 -0500</pubDate>
+      <pubDate>Thu, 04 Jan 2024 19:12:01 -0500</pubDate>
       <guid>https://pennwest-california-programmingclub.github.io/tags/presentations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>schedule</title>
+      <link>https://pennwest-california-programmingclub.github.io/tags/schedule/</link>
+      <pubDate>Thu, 04 Jan 2024 19:12:01 -0500</pubDate>
+      <guid>https://pennwest-california-programmingclub.github.io/tags/schedule/</guid>
       <description></description>
     </item>
     <item>
@@ -240,13 +254,6 @@
       <description></description>
     </item>
     <item>
-      <title>meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/tags/meeting/</link>
-      <pubDate>Sat, 24 Jun 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/tags/meeting/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>merch</title>
       <link>https://pennwest-california-programmingclub.github.io/tags/merch/</link>
       <pubDate>Sat, 24 Jun 2023 15:46:52 -0400</pubDate>
@@ -258,13 +265,6 @@
       <link>https://pennwest-california-programmingclub.github.io/tags/sai/</link>
       <pubDate>Sat, 24 Jun 2023 15:46:52 -0400</pubDate>
       <guid>https://pennwest-california-programmingclub.github.io/tags/sai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>schedule</title>
-      <link>https://pennwest-california-programmingclub.github.io/tags/schedule/</link>
-      <pubDate>Sat, 24 Jun 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/tags/schedule/</guid>
       <description></description>
     </item>
     <item>
