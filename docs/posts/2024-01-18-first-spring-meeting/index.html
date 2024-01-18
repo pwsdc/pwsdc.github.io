@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>1st Spring Meeting | PennWest Software Development Club</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="club meeting, Git, GitHub">
+    <meta name="generator" content="Hugo 0.121.1">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+  
+    <link rel="stylesheet" href="/css/titleblast.css">
+  
+
+  
+    <link rel="stylesheet" href="/css/customfonts.css">
+  
+
+    
+    
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="1st Spring Meeting" />
+<meta property="og:description" content="club meeting, Git, GitHub" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://pennwest-california-programmingclub.github.io/posts/2024-01-18-first-spring-meeting/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-01-18T12:03:49-05:00" />
+<meta property="article:modified_time" content="2024-01-18T12:03:49-05:00" />
+
+<meta itemprop="name" content="1st Spring Meeting">
+<meta itemprop="description" content="club meeting, Git, GitHub"><meta itemprop="datePublished" content="2024-01-18T12:03:49-05:00" />
+<meta itemprop="dateModified" content="2024-01-18T12:03:49-05:00" />
+<meta itemprop="wordCount" content="768">
+<meta itemprop="keywords" content="meeting,presentation,GitHub," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="1st Spring Meeting"/>
+<meta name="twitter:description" content="club meeting, Git, GitHub"/>
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        <div style="display:flex; align-items:center;">
+        <img src="/img/Logo-Final.svg" class="w100 mw5-ns" alt="PennWest Software Development Club" height="70px"/>
+        <div style="margin-left:23px;">
+        PennWest Software Development Club
+        </div>
+        </div>
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/mainpages/joining/" title="Join the Club page">
+              Join the Club
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">1st Spring Meeting</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2024-01-18T12:03:49-05:00">January 18, 2024</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><hr>
+<h1 id="overview">Overview</h1>
+<ul>
+<li>Attendance</li>
+<li>Git/GitHub Presentation
+<ul>
+<li>What is Git/GitHub?</li>
+<li>Using Git</li>
+<li>Using GitHub</li>
+<li>Actually Using GitHub</li>
+<li>Groupwork</li>
+<li>GitIgnore</li>
+</ul>
+</li>
+<li>Next Week</li>
+</ul>
+<hr>
+<h2 id="attendance">Attendance</h2>
+<ul>
+<li>Abu Shettima</li>
+<li>Christian Messmer</li>
+<li>Jonathan Buckel</li>
+<li>Lavender Wilson</li>
+<li>Matthew Williams</li>
+<li>Paul Shriner</li>
+<li>Seth Morgan</li>
+<li>Zach Teixido</li>
+</ul>
+<h2 id="github-presentation">GitHub Presentation</h2>
+<h3 id="gitgithub">Git/GitHub</h3>
+<p>At its core, Git is version control software. To install:</p>
+<ul>
+<li>go to <a href="https://git-scm.com">the download link</a> and follow the instructions</li>
+</ul>
+<p>Git works by tracking changes that are made to any source files. It then logs the changes, and keeps them stored. It essetially gives you a code history, allowing you to revert your codebase to previous versions. Proper version control makes it much easier to debug.</p>
+<p>GitHub is an online platform that integrates with Git in order to keep files and file histories online, allowing a higher degree of collaboration. To use it, you must create an account. Putting projects and other code on your github can be a useful tool for getting a job.</p>
+<h3 id="using-git-via-terminal">Using Git (via Terminal)</h3>
+<p>To create a git repository, you can run <code>git init</code> in any directory. A directory named <code>.git</code> (hidden by default) will be created; do not touch this folder. It is the root of your repository.</p>
+<p>You can add, remove, or change any files in the root folder. Once you&rsquo;re satisfied with your changes, you must add them to be tracked via the command <code>git add [your files]</code>, or, if you want to add everything, <code>git add .</code>.</p>
+<p>After adding any untracked files, you can commit them to a branch via <code>git commit</code>.</p>
+<h3 id="using-github">Using GitHub</h3>
+<p>Most of the time, you&rsquo;ll be essentially copying an existing repository from online. To do this, you can fork (essentially make an online copy of a repo that you own) a repo and then clone (make a local copy) of your forked repo. For cloning, you can also do it with git in the command line with <code>git clone [link-to-your-fork]</code>.</p>
+<p>After doing anything on your local repo (via <code>git add</code>, <code>git commit</code>, <code>git restore</code>, etc.), you can push your changes to your local changes (only committed work) onto the remote repo (the online copy) via <code>git push</code>.</p>
+<p>If your local repo is behind your remote one, you can sync your local one up to date with <code>git pull</code>.</p>
+<h3 id="actually-using-github">Actually Using GitHub</h3>
+<p>Chances are very high that you will rarely actually use the command line to do all your version; the vast majority of IDEs have integrated Git capabilites, and you&rsquo;ll use it through those (it&rsquo;s much easier). All the concepts are still the same (with adding, committing, pushing, pulling, etc.), but most of them will use a more visual representation (and they look nicer).</p>
+<h3 id="groupwork-forks-pull-requests-and-merge-conflicts">Groupwork: Forks, Pull Requests, and Merge Conflicts</h3>
+<p>A <strong>fork</strong> is a personal copy of any repository. The fork is where all your local changes will be saved when you push changes from your local repo. It is very bad practice to upload your changes straight to the master branch; always push to your fork first, and then merge them later, once you&rsquo;ve confirmed everything is as intended.</p>
+<p>A <strong>pull request</strong> is a request by you to merge the changes in your fork into the master repository. In this process, your code will be peer-reviewed, and it will be either accepted or denied. After a pull request is accepted, it is final, and everything will then update to include the changes in the pull request.</p>
+<p>Usually, GitHub is really smart with how it handles merging. Unless you have two different files with the same file, everything will put itself together automatically. Sometimes, you&rsquo;ll encounter a <strong>merge conflict</strong>, which you will have to solve manually. The easiest way to avoid them is to work on different files than everyone else.</p>
+<h3 id="gitignore">GitIgnore</h3>
+<p>Inside the root of your project, you can create a file called <code>.gitignore</code>. Inside this file, you can specify anything you want git to ignore when tracking items. This is a very useful tool for excluding unnecessary files or folders.</p>
+<pre tabindex="0"><code># An example of a .gitignore file. 
+# &lt;- (comments are made using an octothorp.)
+
+# A directory to ignore.
+.\folder-name\
+
+# A specific file to ignore.
+FILENAME.txt
+
+# A specific file type to ignore. 
+*.txt
+</code></pre><p>Generally, your dependencies take up a lot of space that could easily replace with a list of the names of the dependencies. These should be specified in your .gitignore files, but is generally handled by your package manager.</p>
+<h2 id="next-week">Next Week</h2>
+<p>Next Thursday is the Club &amp; Org fair; We will still have a meeting, but Christian and Lavender will be at the club fair stand. The meeting will be a more relaxed meeting with a LeetCode probem or two.</p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/meeting/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">meeting</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/presentation/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">presentation</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/github/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">GitHub</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/posts/2024-01-10-fouth-winter-meeting/">4th Winter Meeting</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/2024-01-04-third-winter-meeting/">3rd Winter Meeting</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/2023-06-24-8th-summer-meeting/">8th Summer Meeting</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/2023-06-17-schedule/">7th Summer Meeting</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/2023-06-10-game-jam/">6th Summer Meeting</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/2023-06-02-first-june-meeting/">5th Summer Meeting</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/2023-05-28-lukes-first-logos/">4th Summer Meeting - First Logos</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/2023-05-21-third-summer-meeting/">3rd Summer Meeting</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/2023-05-14-second-meeting/">2nd Summer Meeting</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/2023-05-06-first-summer-meeting/">1st Summer Meeting</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://pennwest-california-programmingclub.github.io/" >
+    &copy;  PennWest Software Development Club 2024 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>
