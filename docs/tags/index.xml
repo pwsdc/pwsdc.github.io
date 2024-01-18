@@ -6,20 +6,34 @@
     <description>Recent content in Tags on PennWest Software Development Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jan 2024 13:06:41 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 12:03:49 -0500</lastBuildDate>
     <atom:link href="https://pennwest-california-programmingclub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>leetcode</title>
-      <link>https://pennwest-california-programmingclub.github.io/tags/leetcode/</link>
-      <pubDate>Wed, 10 Jan 2024 13:06:41 -0500</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/tags/leetcode/</guid>
+      <title>GitHub</title>
+      <link>https://pennwest-california-programmingclub.github.io/tags/github/</link>
+      <pubDate>Thu, 18 Jan 2024 12:03:49 -0500</pubDate>
+      <guid>https://pennwest-california-programmingclub.github.io/tags/github/</guid>
       <description></description>
     </item>
     <item>
       <title>meeting</title>
       <link>https://pennwest-california-programmingclub.github.io/tags/meeting/</link>
-      <pubDate>Wed, 10 Jan 2024 13:06:41 -0500</pubDate>
+      <pubDate>Thu, 18 Jan 2024 12:03:49 -0500</pubDate>
       <guid>https://pennwest-california-programmingclub.github.io/tags/meeting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>presentation</title>
+      <link>https://pennwest-california-programmingclub.github.io/tags/presentation/</link>
+      <pubDate>Thu, 18 Jan 2024 12:03:49 -0500</pubDate>
+      <guid>https://pennwest-california-programmingclub.github.io/tags/presentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>leetcode</title>
+      <link>https://pennwest-california-programmingclub.github.io/tags/leetcode/</link>
+      <pubDate>Wed, 10 Jan 2024 13:06:41 -0500</pubDate>
+      <guid>https://pennwest-california-programmingclub.github.io/tags/leetcode/</guid>
       <description></description>
     </item>
     <item>
