@@ -25,11 +25,13 @@ tags: ["meeting", "presentation", "malware"]
 - Abu Shettima
 - Christian Beatty
 - Christian Messmer
+- Jeremiah Neff
 - Jonothan Buckle
 - Lavender Wilson
 - Matthew Williams
 - Paul Shriner
 - Seth Teixido
+- Zullikha Hassan
 
 ## Malware
 ### What is Malware?
