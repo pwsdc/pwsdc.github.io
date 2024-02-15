@@ -30,7 +30,7 @@ Dev C++ is an IDE for the C and C++ programming languages. It was originally rel
 ### Benefits of Dev-C++
 (This section is intentionally left blank.)
 
-### What is it bad?
+### Why is it bad?
 It is VERY outdated. This IDE is lacking:
 - Version control integration
 - Syntax highlighting
