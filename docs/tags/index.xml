@@ -6,20 +6,55 @@
     <description>Recent content in Tags on PennWest Software Development Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Feb 2024 12:05:03 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 10:54:17 -0500</lastBuildDate>
     <atom:link href="https://pennwest-california-programmingclub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>internships</title>
-      <link>https://pennwest-california-programmingclub.github.io/tags/internships/</link>
-      <pubDate>Thu, 08 Feb 2024 12:05:03 -0500</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/tags/internships/</guid>
+      <title>c</title>
+      <link>https://pennwest-california-programmingclub.github.io/tags/c/</link>
+      <pubDate>Thu, 15 Feb 2024 10:54:17 -0500</pubDate>
+      <guid>https://pennwest-california-programmingclub.github.io/tags/c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>c&#43;&#43;</title>
+      <link>https://pennwest-california-programmingclub.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Thu, 15 Feb 2024 10:54:17 -0500</pubDate>
+      <guid>https://pennwest-california-programmingclub.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dev C&#43;&#43;</title>
+      <link>https://pennwest-california-programmingclub.github.io/tags/dev-c&#43;&#43;/</link>
+      <pubDate>Thu, 15 Feb 2024 10:54:17 -0500</pubDate>
+      <guid>https://pennwest-california-programmingclub.github.io/tags/dev-c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ide</title>
+      <link>https://pennwest-california-programmingclub.github.io/tags/ide/</link>
+      <pubDate>Thu, 15 Feb 2024 10:54:17 -0500</pubDate>
+      <guid>https://pennwest-california-programmingclub.github.io/tags/ide/</guid>
       <description></description>
     </item>
     <item>
       <title>meeting</title>
       <link>https://pennwest-california-programmingclub.github.io/tags/meeting/</link>
-      <pubDate>Thu, 08 Feb 2024 12:05:03 -0500</pubDate>
+      <pubDate>Thu, 15 Feb 2024 10:54:17 -0500</pubDate>
       <guid>https://pennwest-california-programmingclub.github.io/tags/meeting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visual Studio Code</title>
+      <link>https://pennwest-california-programmingclub.github.io/tags/visual-studio-code/</link>
+      <pubDate>Thu, 15 Feb 2024 10:54:17 -0500</pubDate>
+      <guid>https://pennwest-california-programmingclub.github.io/tags/visual-studio-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>internships</title>
+      <link>https://pennwest-california-programmingclub.github.io/tags/internships/</link>
+      <pubDate>Thu, 08 Feb 2024 12:05:03 -0500</pubDate>
+      <guid>https://pennwest-california-programmingclub.github.io/tags/internships/</guid>
       <description></description>
     </item>
     <item>
@@ -139,27 +174,6 @@
       <link>https://pennwest-california-programmingclub.github.io/tags/ai/</link>
       <pubDate>Thu, 28 Sep 2023 11:00:00 -1200</pubDate>
       <guid>https://pennwest-california-programmingclub.github.io/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>c</title>
-      <link>https://pennwest-california-programmingclub.github.io/tags/c/</link>
-      <pubDate>Thu, 21 Sep 2023 11:00:00 -1200</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/tags/c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>c&#43;&#43;</title>
-      <link>https://pennwest-california-programmingclub.github.io/tags/c&#43;&#43;/</link>
-      <pubDate>Thu, 21 Sep 2023 11:00:00 -1200</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/tags/c&#43;&#43;/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ide</title>
-      <link>https://pennwest-california-programmingclub.github.io/tags/ide/</link>
-      <pubDate>Thu, 21 Sep 2023 11:00:00 -1200</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/tags/ide/</guid>
       <description></description>
     </item>
     <item>
