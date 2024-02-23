@@ -1,20 +1,17 @@
----
-title: "13th Summer Meeting"
-date: 2023-07-29T15:46:52-04:00
-draft: false
-summary: logo decisions, faculty advisor
-tags: ["logo"]
----
++++
+title = '13th Summer Meeting'
+date = 2023-07-29T15:46:52-04:00
+draft = false
+summary = 'logo decisions, faculty advisor'
+tags = ['logo']
++++
 
-
-
-# Attending
+# Attendance
 
 - Karl Miller
 - Luke Bates
 - Christian Messmer
 - Paul Shriner
-  
 
 # Discussions
 
@@ -76,12 +73,11 @@ The logos being voted on are:
 
 ## Winner
 
-The winner on ranked choice voting, by a considerable margin, was Luke - SDC Computer Chords.
+The winner on ranked choice voting, by a considerable margin, was Luke - SDC Computer Cords.
 
 We will iterate and SVG that to produce our final logo.
 
-## Agenda next Meeting
+## Agenda Next Meeting
 
 - Logo iteration
-- Meeting with professor Chen
-
+- Meeting with Professor Chen

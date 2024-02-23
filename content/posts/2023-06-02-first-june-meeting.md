@@ -1,12 +1,13 @@
----
-title: "5th Summer Meeting"
-date: 2023-06-02T15:46:52-04:00
-draft: false
-summary: Talked about website, presentations, treasury.
-tags: ["meeting", "presentations", "treasury"]
----
++++
+title = '5th Summer Meeting'
+date = 2023-06-02T15:46:52-04:00
+draft = false
+summary = 'Talked about website, presentations, treasury.'
+tags = ['meeting', 'presentation', 'treasury']
++++
 
-# Attending
+# Attendance
+
 - Karl Miller
 - Paul Shriner
 - Christian Messmer
@@ -21,14 +22,14 @@ tags: ["meeting", "presentations", "treasury"]
 
 ### Presentations
 
-- Luke is interested in doing a presentation regarding booting from a linux partition.
+- Luke is interested in doing a presentation regarding booting from a Linux partition.
 - Christian is interested in doing a test-driven-development presentation.
 - A VSCodium or VSCode presentation could be good.
 
 ### Docker Presentation
 
 - The Docker presentation Karl did was well received.
-- If we were to add a docker setup to the example repo, C#/asp.net was suggested for a few reasons:
+- If we were to add a Docker setup to the example repo, C#/asp.net was suggested for a few reasons:
     1. It ties nicely into the C based curriculum at PennWest
     2. A lot of employers seem to want it
     3. It's a nice language
@@ -50,13 +51,11 @@ tags: ["meeting", "presentations", "treasury"]
 - People could contribute front end designs
 - Anyone interested in the website will meet on Thursday @5:00 PM to talk about stacks and technologies
 
-_Note_: The website repo is started. It's a React app. Check out [the repo here](https://github.com/PWC-ProgrammingClub/new-website). Contributions welcome.
+_Note_: The website repo is started. It's a React app. Check out [the repo here](https://github.com/pwsdc/new-website). Contributions welcome.
 
 We know we want to make sure the website can still support content in markdown format.
 
-
 # Agenda Next Meeitng
-
 
 ### Game Club Game Jam
 
@@ -75,7 +74,7 @@ We know we want to make sure the website can still support content in markdown f
 
 ### Ryan Willing to Speak to Club
 
-- Next semester, Ryan Merow is willing to do a talk to the club. It could be great content for members to hear from a professional who was personally involved in the programming club. We should schedule it in advance and add it to the calendar. He also reminded me that he didn't do it alone, and suggested I also reach out to Paul, Mike, and Anthony.
+- Next semester, Ryan Merow is willing to do a talk to the club. It could be great content for members to hear from a professional who was personally involved in the Programming Club. We should schedule it in advance and add it to the calendar. He also reminded me that he didn't do it alone, and suggested I also reach out to Paul, Mike, and Anthony.
 
 ### SAI
 

@@ -1,0 +1,56 @@
+baseURL: https://pwsdc.github.io/
+languageCode: en-us
+theme: ["PaperMod"]
+title: Software Dev. Club
+copyright: Made by [PWSDC](/)
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: archive
+      name: Archive
+      url: /archive/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+    - identifier: join
+      name: Join the Club
+      url: /join/
+      weight: 50
+    # - identifier: about
+    #   name: About
+    #   url: /about/
+    #   weight: 60
+
+params:
+  defaultTheme: auto # Switch based on browser theme
+
+  label: # Add logo to header
+    icon: "img/logo.png"
+
+  profileMode:
+    enabled: true
+    title: "PennWest (Cal) Software Development Club" # optional default will be site title
+    subtitle: "We explore all aspects of software development (not just programming)!"
+    imageUrl: "img/logo.png" # optional
+    imageTitle: "Club Logo" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Join the Club
+        url: "/join"

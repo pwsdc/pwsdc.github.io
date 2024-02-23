@@ -1,12 +1,12 @@
----
-title: "14th Summer Meeting"
-date: 2023-08-05T15:46:52-04:00
-draft: false
-summary: logo status, faculty advisor, club meeting
-tags: ["logo", "advisor", "content"]
----
++++
+title = '14th Summer Meeting'
+date = 2023-08-05T15:46:52-04:00
+draft = false
+summary = 'logo status, faculty advisor, club meeting'
+tags = ['logo', 'advisor', 'content']
++++
 
-# Attending
+# Attendance
 
 - Karl Miller
 - Luke Bates
@@ -26,7 +26,7 @@ We told Professor Chen about the dire membership issues and about our plans for 
     - eg, Code Linting, Linux Dual Boot, JavaScript, GitHub, Docker
 - Speeches by Alumni
 
-We asked Professor Chen about getting a faculty advisor from the CIT Program. He had suggested Professor Menon. None of the board had taken a class with her, but, prior to this meeting, we asked students from the CIT program about her and she was highly recommended. The board has agreed to reach out to her.
+We asked Professor Chen about getting a faculty advisor from the CIS program. He had suggested Professor Menon. None of the board had taken a class with her, but, prior to this meeting, we asked students from the CIS program about her and she was highly recommended. The board has agreed to reach out to her.
 - Karl will email Professor Menon and CC Professor Chen
 
 Professor Chen suggested some additional speakers:
@@ -51,4 +51,3 @@ The club met on Tuesday at 5:00 PM to do some more iterations of the club logo.
 - Club Fair upcoming
 - Pizza Party Prep
 - Fliers
-

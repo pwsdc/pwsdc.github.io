@@ -1,47 +1,44 @@
----
-title: "2nd Summer Meeting"
-date: 2023-05-13T15:46:52-04:00
-draft: false
-summary: Talked about meeting format, recruiting new members, constitution.
-tags: ["meeting", "advisors", "recruitment"]
----
++++
+title = '2nd Summer Meeting'
+date = 2023-05-13T15:46:52-04:00
+draft = false
+summary = 'Talked about meeting format, recruiting new members, constitution.'
+tags = ['meeting', 'advisor', 'recruitment']
++++
 
-
-## Attending
+## Attendance
 - Heather Page
 - Paul Shriner
 - Karl Miller
 - Christian Messmer
 - Luke Bates
 
-
 ## Discussions
 
 - Re: Constitution; base general format on other club's constitution
-    - Karl has started [constitution repo](https://github.com/PWC-ProgrammingClub/constitution)
+    - Karl has started a [constitution repo](https://github.com/pwsdc/constitution)
 
 - Discussed adding second advisor
-    - Must be pennwest faculty/staff
+    - Must be PennWest faculty/staff
     - will be able to run club longer
     - Dr. Kovalchik 
     - in with CIS dept
-    - will be able to run club longer
 
 - Heavy recruitment during semester
     - focus on freshman/sophmores
 
-- Holding of on having github as requirement for active membership; possibly just 2 meetings or even keeping at 1
+- Holding of on having GitHub as requirement for active membership; possibly just 2 meetings or even keeping at 1
   - workshops may help attract members
 
-- Continue teaching github, have git workshops
+- Continue teaching GitHub, have git workshops
 
 - Ideas for workshops for upcoming semester
-    - Github
+    - GitHub
     - Code styling
     - Debugging
         - eg breakpoints, debugger, print statements
-    - makefiles
-    - rotate who creates workshop
+    - Makefiles
+    - Rotate who creates workshop
     - Javascript/Typescript
     - Markdown
 
@@ -63,5 +60,3 @@ tags: ["meeting", "advisors", "recruitment"]
 ## Agenda Next Meeting
 
 TBD
-
-

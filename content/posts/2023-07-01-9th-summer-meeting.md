@@ -1,12 +1,12 @@
----
-title: "9th Summer Meeting"
-date: 2023-07-01T15:46:52-04:00
-draft: false
-summary: logo, game jam, presentations
-tags: ["presentations", "logo", "game jam"]
----
++++
+title = '9th Summer Meeting'
+date = 2023-07-01T15:46:52-04:00
+draft = false
+summary = 'logo, game jam, presentations'
+tags = ['presentation', 'logo', 'game jam']
++++
 
-# Attending
+# Attendance
 
 - Luke Bates
 - Paul Shriner
@@ -16,7 +16,7 @@ tags: ["presentations", "logo", "game jam"]
 
 ## Game Club
 
-- Confirmed Weekend of September 1st for minecraft game jam
+- Confirmed weekend of September 1st for Minecraft game jam
 - We will get a rough draft of format and rules done by 15th of July
 
 ## Logo
@@ -29,7 +29,6 @@ tags: ["presentations", "logo", "game jam"]
 
 - 8th of July @ 5:00 PM. Also decided that the weekend after that should be dedicated to starting presentations in the semester
 
-
 ## Agenda Next Meeting
 
 - Minecraft Game Jam
@@ -37,4 +36,3 @@ tags: ["presentations", "logo", "game jam"]
 - Presentation Collab Date
 - Faculty Advisor Reach Out Discussion
 - Talk about Events and Prizes again
-
