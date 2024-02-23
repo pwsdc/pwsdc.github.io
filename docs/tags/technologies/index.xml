@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Technologies on Software Dev. Club</title>
+    <link>https://pwsdc.github.io/tags/technologies/</link>
+    <description>Recent content in Technologies on Software Dev. Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Made by [PWSDC](/)</copyright>
+    <lastBuildDate>Thu, 19 Oct 2023 11:00:00 -1200</lastBuildDate>
+    <atom:link href="https://pwsdc.github.io/tags/technologies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8th Fall Meeting - Docker &amp; Microservices</title>
+      <link>https://pwsdc.github.io/posts/2023-10-19-fall-meeting-docker/</link>
+      <pubDate>Thu, 19 Oct 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/posts/2023-10-19-fall-meeting-docker/</guid>
+      <description>club meeting, presentation, docker</description>
+    </item>
+    <item>
+      <title>7th Fall Meeting - The Demoscene</title>
+      <link>https://pwsdc.github.io/posts/2023-10-12-fall-meeting-demoscene/</link>
+      <pubDate>Thu, 12 Oct 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/posts/2023-10-12-fall-meeting-demoscene/</guid>
+      <description>club meeting, presentation, retro</description>
+    </item>
+    <item>
+      <title>6th Fall Meeting - Erie Insurance</title>
+      <link>https://pwsdc.github.io/posts/2023-10-05-fall-meeting-erie/</link>
+      <pubDate>Thu, 05 Oct 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/posts/2023-10-05-fall-meeting-erie/</guid>
+      <description>club meeting, presentation, informational session, internship</description>
+    </item>
+    <item>
+      <title>5th Fall Meeting - Right-Click Composer</title>
+      <link>https://pwsdc.github.io/posts/2023-09-28-5th-fall-meeting-ai/</link>
+      <pubDate>Thu, 28 Sep 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/posts/2023-09-28-5th-fall-meeting-ai/</guid>
+      <description>club meeting, presentation, ai</description>
+    </item>
+    <item>
+      <title>4th Fall Meeting - VS Code is Better Than Dev-C&#43;&#43;</title>
+      <link>https://pwsdc.github.io/posts/2023-09-21-4th-fall-meeting-vscode-presentation/</link>
+      <pubDate>Thu, 21 Sep 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/posts/2023-09-21-4th-fall-meeting-vscode-presentation/</guid>
+      <description>club meeting, presentation</description>
+    </item>
+    <item>
+      <title>3rd Fall Meeting - Git &#43; GitHub Intro</title>
+      <link>https://pwsdc.github.io/posts/2023-09-07-3rd-fall-meeting-github-presentation/</link>
+      <pubDate>Thu, 07 Sep 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/posts/2023-09-07-3rd-fall-meeting-github-presentation/</guid>
+      <description>logo status, faculty advisor, club meeting</description>
+    </item>
+  </channel>
+</rss>

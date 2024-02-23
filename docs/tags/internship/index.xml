@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Internship on Software Dev. Club</title>
+    <link>https://pwsdc.github.io/tags/internship/</link>
+    <description>Recent content in Internship on Software Dev. Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Made by [PWSDC](/)</copyright>
+    <lastBuildDate>Thu, 08 Feb 2024 12:05:03 -0500</lastBuildDate>
+    <atom:link href="https://pwsdc.github.io/tags/internship/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4th Spring Meeting</title>
+      <link>https://pwsdc.github.io/posts/2024-02-08-fourth-spring-meeting/</link>
+      <pubDate>Thu, 08 Feb 2024 12:05:03 -0500</pubDate>
+      <guid>https://pwsdc.github.io/posts/2024-02-08-fourth-spring-meeting/</guid>
+      <description>club meeting, resume/job search</description>
+    </item>
+    <item>
+      <title>6th Fall Meeting - Erie Insurance</title>
+      <link>https://pwsdc.github.io/posts/2023-10-05-fall-meeting-erie/</link>
+      <pubDate>Thu, 05 Oct 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/posts/2023-10-05-fall-meeting-erie/</guid>
+      <description>club meeting, presentation, informational session, internship</description>
+    </item>
+  </channel>
+</rss>

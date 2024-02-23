@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Retro on Software Dev. Club</title>
+    <link>https://pwsdc.github.io/tags/retro/</link>
+    <description>Recent content in Retro on Software Dev. Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Made by [PWSDC](/)</copyright>
+    <lastBuildDate>Thu, 12 Oct 2023 11:00:00 -1200</lastBuildDate>
+    <atom:link href="https://pwsdc.github.io/tags/retro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>7th Fall Meeting - The Demoscene</title>
+      <link>https://pwsdc.github.io/posts/2023-10-12-fall-meeting-demoscene/</link>
+      <pubDate>Thu, 12 Oct 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/posts/2023-10-12-fall-meeting-demoscene/</guid>
+      <description>club meeting, presentation, retro</description>
+    </item>
+  </channel>
+</rss>

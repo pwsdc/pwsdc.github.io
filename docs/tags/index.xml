@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Software Dev. Club</title>
+    <link>https://pwsdc.github.io/tags/</link>
+    <description>Recent content in Tags on Software Dev. Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Made by [PWSDC](/)</copyright>
+    <lastBuildDate>Thu, 22 Feb 2024 12:19:30 -0500</lastBuildDate>
+    <atom:link href="https://pwsdc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leetcode</title>
+      <link>https://pwsdc.github.io/tags/leetcode/</link>
+      <pubDate>Thu, 22 Feb 2024 12:19:30 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/leetcode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meeting</title>
+      <link>https://pwsdc.github.io/tags/meeting/</link>
+      <pubDate>Thu, 22 Feb 2024 12:19:30 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/meeting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C-C&#43;&#43;</title>
+      <link>https://pwsdc.github.io/tags/c-c&#43;&#43;/</link>
+      <pubDate>Thu, 15 Feb 2024 10:54:17 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/c-c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dev-C&#43;&#43;</title>
+      <link>https://pwsdc.github.io/tags/dev-c&#43;&#43;/</link>
+      <pubDate>Thu, 15 Feb 2024 10:54:17 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/dev-c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IDE</title>
+      <link>https://pwsdc.github.io/tags/ide/</link>
+      <pubDate>Thu, 15 Feb 2024 10:54:17 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/ide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VS Code</title>
+      <link>https://pwsdc.github.io/tags/vs-code/</link>
+      <pubDate>Thu, 15 Feb 2024 10:54:17 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/vs-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internship</title>
+      <link>https://pwsdc.github.io/tags/internship/</link>
+      <pubDate>Thu, 08 Feb 2024 12:05:03 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/internship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presentation</title>
+      <link>https://pwsdc.github.io/tags/presentation/</link>
+      <pubDate>Thu, 08 Feb 2024 12:05:03 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/presentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>https://pwsdc.github.io/tags/resume/</link>
+      <pubDate>Thu, 08 Feb 2024 12:05:03 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/resume/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Malware</title>
+      <link>https://pwsdc.github.io/tags/malware/</link>
+      <pubDate>Thu, 01 Feb 2024 12:22:13 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/malware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code Jam</title>
+      <link>https://pwsdc.github.io/tags/code-jam/</link>
+      <pubDate>Thu, 25 Jan 2024 11:20:52 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/code-jam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://pwsdc.github.io/tags/git/</link>
+      <pubDate>Thu, 18 Jan 2024 12:03:49 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Schedule</title>
+      <link>https://pwsdc.github.io/tags/schedule/</link>
+      <pubDate>Thu, 04 Jan 2024 19:12:01 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/schedule/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://pwsdc.github.io/tags/docker/</link>
+      <pubDate>Thu, 19 Oct 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Full-Stack</title>
+      <link>https://pwsdc.github.io/tags/full-stack/</link>
+      <pubDate>Thu, 19 Oct 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/full-stack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technologies</title>
+      <link>https://pwsdc.github.io/tags/technologies/</link>
+      <pubDate>Thu, 19 Oct 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/technologies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>https://pwsdc.github.io/tags/web/</link>
+      <pubDate>Thu, 19 Oct 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retro</title>
+      <link>https://pwsdc.github.io/tags/retro/</link>
+      <pubDate>Thu, 12 Oct 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/retro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://pwsdc.github.io/tags/business/</link>
+      <pubDate>Thu, 05 Oct 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Insurance</title>
+      <link>https://pwsdc.github.io/tags/insurance/</link>
+      <pubDate>Thu, 05 Oct 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/insurance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai</title>
+      <link>https://pwsdc.github.io/tags/ai/</link>
+      <pubDate>Thu, 28 Sep 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Career</title>
+      <link>https://pwsdc.github.io/tags/career/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Club-Fair</title>
+      <link>https://pwsdc.github.io/tags/club-fair/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/club-fair/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Collaboration</title>
+      <link>https://pwsdc.github.io/tags/collaboration/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/collaboration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance-Club</title>
+      <link>https://pwsdc.github.io/tags/finance-club/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/finance-club/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graphic-Design</title>
+      <link>https://pwsdc.github.io/tags/graphic-design/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/graphic-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>https://pwsdc.github.io/tags/networking/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radio</title>
+      <link>https://pwsdc.github.io/tags/radio/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/radio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robotics-Club</title>
+      <link>https://pwsdc.github.io/tags/robotics-club/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/robotics-club/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content</title>
+      <link>https://pwsdc.github.io/tags/content/</link>
+      <pubDate>Thu, 31 Aug 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elections</title>
+      <link>https://pwsdc.github.io/tags/elections/</link>
+      <pubDate>Thu, 31 Aug 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/elections/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>https://pwsdc.github.io/tags/introduction/</link>
+      <pubDate>Thu, 31 Aug 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/introduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Suggestions</title>
+      <link>https://pwsdc.github.io/tags/suggestions/</link>
+      <pubDate>Thu, 31 Aug 2023 11:00:00 -1200</pubDate>
+      <guid>https://pwsdc.github.io/tags/suggestions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Advisor</title>
+      <link>https://pwsdc.github.io/tags/advisor/</link>
+      <pubDate>Sat, 19 Aug 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/advisor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logo</title>
+      <link>https://pwsdc.github.io/tags/logo/</link>
+      <pubDate>Sat, 19 Aug 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/logo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rebranding</title>
+      <link>https://pwsdc.github.io/tags/rebranding/</link>
+      <pubDate>Sat, 15 Jul 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/rebranding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Events</title>
+      <link>https://pwsdc.github.io/tags/events/</link>
+      <pubDate>Sat, 08 Jul 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/events/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game Jam</title>
+      <link>https://pwsdc.github.io/tags/game-jam/</link>
+      <pubDate>Sat, 08 Jul 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/game-jam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Merch</title>
+      <link>https://pwsdc.github.io/tags/merch/</link>
+      <pubDate>Sat, 24 Jun 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/merch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sai</title>
+      <link>https://pwsdc.github.io/tags/sai/</link>
+      <pubDate>Sat, 24 Jun 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/sai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discord</title>
+      <link>https://pwsdc.github.io/tags/discord/</link>
+      <pubDate>Sat, 10 Jun 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/discord/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speakers</title>
+      <link>https://pwsdc.github.io/tags/speakers/</link>
+      <pubDate>Sat, 10 Jun 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/speakers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Treasury</title>
+      <link>https://pwsdc.github.io/tags/treasury/</link>
+      <pubDate>Fri, 02 Jun 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/treasury/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Calendar</title>
+      <link>https://pwsdc.github.io/tags/calendar/</link>
+      <pubDate>Sun, 28 May 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/calendar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Website</title>
+      <link>https://pwsdc.github.io/tags/website/</link>
+      <pubDate>Sun, 28 May 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/website/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Academics</title>
+      <link>https://pwsdc.github.io/tags/academics/</link>
+      <pubDate>Sun, 21 May 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/academics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recruitment</title>
+      <link>https://pwsdc.github.io/tags/recruitment/</link>
+      <pubDate>Sat, 13 May 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/tags/recruitment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Constitution</title>
+      <link>https://pwsdc.github.io/tags/constitution/</link>
+      <pubDate>Sat, 06 May 2023 12:53:14 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/constitution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goals</title>
+      <link>https://pwsdc.github.io/tags/goals/</link>
+      <pubDate>Sat, 06 May 2023 12:53:14 -0500</pubDate>
+      <guid>https://pwsdc.github.io/tags/goals/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

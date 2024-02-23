@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Advisor on Software Dev. Club</title>
+    <link>https://pwsdc.github.io/tags/advisor/</link>
+    <description>Recent content in Advisor on Software Dev. Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Made by [PWSDC](/)</copyright>
+    <lastBuildDate>Sat, 19 Aug 2023 15:46:52 -0400</lastBuildDate>
+    <atom:link href="https://pwsdc.github.io/tags/advisor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>16th (Last) Summer Meeting</title>
+      <link>https://pwsdc.github.io/posts/2023-08-19-16th-summer-meeting/</link>
+      <pubDate>Sat, 19 Aug 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/posts/2023-08-19-16th-summer-meeting/</guid>
+      <description>logo status, faculty advisor, club meeting</description>
+    </item>
+    <item>
+      <title>15th Summer Meeting</title>
+      <link>https://pwsdc.github.io/posts/2023-08-12-15th-summer-meeting/</link>
+      <pubDate>Sat, 12 Aug 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/posts/2023-08-12-15th-summer-meeting/</guid>
+      <description>logo status, faculty advisor, club meeting</description>
+    </item>
+    <item>
+      <title>14th Summer Meeting</title>
+      <link>https://pwsdc.github.io/posts/2023-08-05-14th-summer-meeting/</link>
+      <pubDate>Sat, 05 Aug 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/posts/2023-08-05-14th-summer-meeting/</guid>
+      <description>logo status, faculty advisor, club meeting</description>
+    </item>
+    <item>
+      <title>8th Summer Meeting</title>
+      <link>https://pwsdc.github.io/posts/2023-06-24-8th-summer-meeting/</link>
+      <pubDate>Sat, 24 Jun 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/posts/2023-06-24-8th-summer-meeting/</guid>
+      <description>SAI results, event ideas, advisor ideas</description>
+    </item>
+    <item>
+      <title>2nd Summer Meeting</title>
+      <link>https://pwsdc.github.io/posts/2023-05-14-second-meeting/</link>
+      <pubDate>Sat, 13 May 2023 15:46:52 -0400</pubDate>
+      <guid>https://pwsdc.github.io/posts/2023-05-14-second-meeting/</guid>
+      <description>Talked about meeting format, recruiting new members, constitution.</description>
+    </item>
+  </channel>
+</rss>

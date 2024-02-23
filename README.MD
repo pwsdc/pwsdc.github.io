@@ -50,4 +50,4 @@ Content for the file will go under the yaml front matter. It should follow markd
 
 ## Making Changes to the Site
 
-GitHub Actions has been set up to build and deploy the site on the main repo. Simply push your changes, make a pull request, then when its merged the changes will be shown in a short time.
+You will need to build the site before pushing to the repo. To do this, run `hugo` in the terminal. GitHub Pages will deploy the site from the docs directory.
