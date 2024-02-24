@@ -1,12 +1,12 @@
----
-title: "15th Summer Meeting"
-date: 2023-08-12T15:46:52-04:00
-draft: false
-summary: logo status, faculty advisor, club meeting
-tags: ["logo", "advisor", "content"]
----
++++
+title = '15th Summer Meeting'
+date = 2023-08-12T15:46:52-04:00
+draft = false
+summary = 'logo status, faculty advisor, club meeting'
+tags = ['logo', 'advisor', 'content']
++++
 
-# Attending
+# Attendance
 
 - Karl Miller
 - Paul Shriner
@@ -22,7 +22,7 @@ We applied the new logo and redid the server name.
 
 {{< figure src=/img/Logo-Final.svg width="500">}}
 
-### Room change to eberly
+### Room change to Eberly
 
 - Christian will try to find out what room we are looking at in Eberly.
 - Christian will work on an [Engage](https://engage.pennwest.edu/) posting.
@@ -42,19 +42,19 @@ We applied the new logo and redid the server name.
 
 ### Schedule + Speakers
 
-- Need to redo schedule with thursday dates
+- Need to redo schedule with Thursday dates
 - Karl and Christian will ask people from their work to speak to the club
 - Alumni speaking to club
 - Prof. Chen has some alumni who made games
 
 ### Pizza Party
 
-- Karl will order Pizzas day before, confirm morning of
+- Karl will order pizzas day before, confirm morning of
 - Karl will pay out of pocket, get reimbursed from SAI
 
 ### Email Professor Menon
 
-- Karl will email professor menon, CC Professor chen
+- Karl will email Professor Menon, CC Professor Chen
 
 # Vote
 
@@ -63,7 +63,7 @@ We applied the new logo and redid the server name.
 
 # Agenda Next meeting
 
-- Renaming github
+- Renaming GitHub
 - Renaming Website
 - Fliers expo 
 - Schedule setup
@@ -72,5 +72,3 @@ We applied the new logo and redid the server name.
 - Ask around on Monday about this as well
 - Karl and Christian will try to meet 
 - Merch stuff!
-
-

@@ -1,102 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>logo on PennWest Software Development Club</title>
-    <link>https://pennwest-california-programmingclub.github.io/tags/logo/</link>
-    <description>Recent content in logo on PennWest Software Development Club</description>
+    <title>Logo on Software Dev. Club</title>
+    <link>https://pwsdc.github.io/tags/logo/</link>
+    <description>Recent content in Logo on Software Dev. Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Made by [PWSDC](/)</copyright>
     <lastBuildDate>Sat, 19 Aug 2023 15:46:52 -0400</lastBuildDate>
-    <atom:link href="https://pennwest-california-programmingclub.github.io/tags/logo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pwsdc.github.io/tags/logo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>16th (Last) Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-08-19-16th-summer-meeting/</link>
+      <link>https://pwsdc.github.io/posts/2023-08-19-16th-summer-meeting/</link>
       <pubDate>Sat, 19 Aug 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-08-19-16th-summer-meeting/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-08-19-16th-summer-meeting/</guid>
       <description>logo status, faculty advisor, club meeting</description>
     </item>
     <item>
       <title>15th Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-08-12-15th-summer-meeting/</link>
+      <link>https://pwsdc.github.io/posts/2023-08-12-15th-summer-meeting/</link>
       <pubDate>Sat, 12 Aug 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-08-12-15th-summer-meeting/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-08-12-15th-summer-meeting/</guid>
       <description>logo status, faculty advisor, club meeting</description>
     </item>
     <item>
       <title>14th Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-08-05-14th-summer-meeting/</link>
+      <link>https://pwsdc.github.io/posts/2023-08-05-14th-summer-meeting/</link>
       <pubDate>Sat, 05 Aug 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-08-05-14th-summer-meeting/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-08-05-14th-summer-meeting/</guid>
       <description>logo status, faculty advisor, club meeting</description>
     </item>
     <item>
       <title>13th Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-07-29-13th-summer-meeting-logo-decisions/</link>
+      <link>https://pwsdc.github.io/posts/2023-07-29-13th-summer-meeting-logo-decisions/</link>
       <pubDate>Sat, 29 Jul 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-07-29-13th-summer-meeting-logo-decisions/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-07-29-13th-summer-meeting-logo-decisions/</guid>
       <description>logo decisions, faculty advisor</description>
     </item>
     <item>
       <title>12th Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-07-22-12th-summer-meeting/</link>
+      <link>https://pwsdc.github.io/posts/2023-07-22-12th-summer-meeting/</link>
       <pubDate>Sat, 22 Jul 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-07-22-12th-summer-meeting/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-07-22-12th-summer-meeting/</guid>
       <description>rebranding, events review</description>
     </item>
     <item>
       <title>11th Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-07-15-11th-summer-meeting/</link>
+      <link>https://pwsdc.github.io/posts/2023-07-15-11th-summer-meeting/</link>
       <pubDate>Sat, 15 Jul 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-07-15-11th-summer-meeting/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-07-15-11th-summer-meeting/</guid>
       <description>rebranding, events review</description>
     </item>
     <item>
       <title>10th Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-07-08-10th-summer-meeting/</link>
+      <link>https://pwsdc.github.io/posts/2023-07-08-10th-summer-meeting/</link>
       <pubDate>Sat, 08 Jul 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-07-08-10th-summer-meeting/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-07-08-10th-summer-meeting/</guid>
       <description>rebranding, events review</description>
     </item>
     <item>
       <title>9th Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-07-01-9th-summer-meeting/</link>
+      <link>https://pwsdc.github.io/posts/2023-07-01-9th-summer-meeting/</link>
       <pubDate>Sat, 01 Jul 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-07-01-9th-summer-meeting/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-07-01-9th-summer-meeting/</guid>
       <description>logo, game jam, presentations</description>
     </item>
     <item>
       <title>8th Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-06-24-8th-summer-meeting/</link>
+      <link>https://pwsdc.github.io/posts/2023-06-24-8th-summer-meeting/</link>
       <pubDate>Sat, 24 Jun 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-06-24-8th-summer-meeting/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-06-24-8th-summer-meeting/</guid>
       <description>SAI results, event ideas, advisor ideas</description>
     </item>
     <item>
       <title>7th Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-06-17-schedule/</link>
+      <link>https://pwsdc.github.io/posts/2023-06-17-schedule/</link>
       <pubDate>Sat, 17 Jun 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-06-17-schedule/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-06-17-schedule/</guid>
       <description>schedule</description>
     </item>
     <item>
       <title>6th Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-06-10-game-jam/</link>
+      <link>https://pwsdc.github.io/posts/2023-06-10-game-jam/</link>
       <pubDate>Sat, 10 Jun 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-06-10-game-jam/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-06-10-game-jam/</guid>
       <description>Game jam, 3d Hammer asset, accounts, discord clean up</description>
     </item>
     <item>
       <title>4th Summer Meeting - First Logos</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-05-28-lukes-first-logos/</link>
+      <link>https://pwsdc.github.io/posts/2023-05-28-lukes-first-logos/</link>
       <pubDate>Sun, 28 May 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-05-28-lukes-first-logos/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-05-28-lukes-first-logos/</guid>
       <description>Talked about logo, presentations, website.</description>
     </item>
     <item>
       <title>3rd Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-05-21-third-summer-meeting/</link>
+      <link>https://pwsdc.github.io/posts/2023-05-21-third-summer-meeting/</link>
       <pubDate>Sun, 21 May 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-05-21-third-summer-meeting/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-05-21-third-summer-meeting/</guid>
       <description>Talked about presentations, calendar, and treasury.</description>
     </item>
   </channel>

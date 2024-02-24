@@ -1,19 +1,19 @@
----
-title: "3rd Summer Meeting"
-date: 2023-05-21T15:46:52-04:00
-draft: false
-summary: Talked about presentations, calendar, and treasury.
-tags: ["meeting", "logo", "website", "presentations", "academics"]
----
++++
+title = '3rd Summer Meeting'
+date = 2023-05-21T15:46:52-04:00
+draft = false
+summary = 'Talked about presentations, calendar, and treasury.'
+tags = ['meeting', 'logo', 'website', 'presentation', 'academics']
++++
 
-# Attending
+# Attendance
+
 - Karl Miller
 - Paul Shriner
 - Christian Messmer
 - Luke Bates
 
 # Discussions
-
 
 ### Logo and Rebranding
 
@@ -35,7 +35,7 @@ The following are some topics different officers may cover.
 
 ### Calendar
 
-Christian created an outlook group for a shared calendar for officers.
+Christian created an Outlook group for a shared calendar for officers.
 
 ### Treasury
 
@@ -47,16 +47,11 @@ Karl is looking for collaborators and ideas for the discord bot. May do a summer
 
 ### PennWest CompSci Program
 
-We discussed some parts of the program that could use improvement. We think git/github should be taught earlier and continuosly; it could be integrated into virtually all coding classes. It was one of the main technology that industry professionals said they saw lacking in graduates. Christian thinks agile development could be taught more formally and earlier, though Karl thought it wasn't as important as Git/GitHub.
+We discussed some parts of the program that could use improvement. We think git/GitHub should be taught earlier and continously; it could be integrated into virtually all coding classes. It was one of the main technologies that industry professionals said they saw lacking in graduates. Christian thinks agile development could be taught more formally and earlier, though Karl thought it wasn't as important as Git/GitHub.
 
 ### Next Meeting
 
 The next meeting will be at 5:00 PM on Sunday the 28th.
-
-
-&nbsp;
-
-&nbsp;
 
 # Agenda Next Meeting
 
@@ -86,11 +81,10 @@ Christian is going to ask Jess about SAI and budgets.
 
 ### Website
 
-- What were the other submissions, can we link their github's on the website?
+- What were the other submissions, can we link their GitHub's on the website?
 - Can we mention the winner on the website?
 - Move 2023 April Fools Jam to regular "Posts"?
 - Make a top-level page for the 2023 Fall Programming Club Pizza Party?
 - Creating content for the "About" page of the programming club?
 
 Do we want to switch frameworks? React?
-

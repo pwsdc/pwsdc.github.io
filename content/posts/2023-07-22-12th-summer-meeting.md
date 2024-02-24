@@ -1,12 +1,12 @@
----
-title: "12th Summer Meeting"
-date: 2023-07-22T15:46:52-04:00
-draft: false
-summary: rebranding, events review
-tags: ["logo"]
----
++++
+title = '12th Summer Meeting'
+date = 2023-07-22T15:46:52-04:00
+draft = false
+summary = 'rebranding, events review'
+tags = ['logo']
++++
 
-# Attending
+# Attendance
 
 - Paul Shriner
 - Karl Miller
@@ -21,11 +21,12 @@ tags: ["logo"]
 - Karl and Christian worked on some abstract logos during the meeting
 {{< figure src=/img/logo-drafts/2023-07-22-karl-and-christian-buggear-1.png >}}
 {{< figure src=/img/logo-drafts/2023-07-22-karl-and-christian-buggear-2.png >}}
+
 - Luke presented some logos he had worked on over the last week
 {{< figure src=/img/logo-drafts/2023-07-22-luke-sdc1.png >}}
 {{< figure src=/img/logo-drafts/2023-07-22-luke-sdc2.png >}}
 
-## Agenda next Meeting
+## Agenda Next Meeting
 
 - Logo
 - Events

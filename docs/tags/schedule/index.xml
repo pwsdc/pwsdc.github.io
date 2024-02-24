@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>schedule on PennWest Software Development Club</title>
-    <link>https://pennwest-california-programmingclub.github.io/tags/schedule/</link>
-    <description>Recent content in schedule on PennWest Software Development Club</description>
+    <title>Schedule on Software Dev. Club</title>
+    <link>https://pwsdc.github.io/tags/schedule/</link>
+    <description>Recent content in Schedule on Software Dev. Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Made by [PWSDC](/)</copyright>
     <lastBuildDate>Thu, 04 Jan 2024 19:12:01 -0500</lastBuildDate>
-    <atom:link href="https://pennwest-california-programmingclub.github.io/tags/schedule/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pwsdc.github.io/tags/schedule/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3rd Winter Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2024-01-04-third-winter-meeting/</link>
+      <link>https://pwsdc.github.io/posts/2024-01-04-third-winter-meeting/</link>
       <pubDate>Thu, 04 Jan 2024 19:12:01 -0500</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2024-01-04-third-winter-meeting/</guid>
+      <guid>https://pwsdc.github.io/posts/2024-01-04-third-winter-meeting/</guid>
       <description>club meeting, org fair, coding comp, club project</description>
     </item>
     <item>
       <title>8th Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-06-24-8th-summer-meeting/</link>
+      <link>https://pwsdc.github.io/posts/2023-06-24-8th-summer-meeting/</link>
       <pubDate>Sat, 24 Jun 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-06-24-8th-summer-meeting/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-06-24-8th-summer-meeting/</guid>
       <description>SAI results, event ideas, advisor ideas</description>
     </item>
     <item>
       <title>7th Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-06-17-schedule/</link>
+      <link>https://pwsdc.github.io/posts/2023-06-17-schedule/</link>
       <pubDate>Sat, 17 Jun 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-06-17-schedule/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-06-17-schedule/</guid>
       <description>schedule</description>
     </item>
   </channel>

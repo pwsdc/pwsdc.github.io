@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>code jam on PennWest Software Development Club</title>
-    <link>https://pennwest-california-programmingclub.github.io/tags/code-jam/</link>
-    <description>Recent content in code jam on PennWest Software Development Club</description>
+    <title>Code Jam on Software Dev. Club</title>
+    <link>https://pwsdc.github.io/tags/code-jam/</link>
+    <description>Recent content in Code Jam on Software Dev. Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Made by [PWSDC](/)</copyright>
     <lastBuildDate>Thu, 25 Jan 2024 11:20:52 -0500</lastBuildDate>
-    <atom:link href="https://pennwest-california-programmingclub.github.io/tags/code-jam/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pwsdc.github.io/tags/code-jam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2nd Spring Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2024-01-25-second-spring-meeting/</link>
+      <link>https://pwsdc.github.io/posts/2024-01-25-second-spring-meeting/</link>
       <pubDate>Thu, 25 Jan 2024 11:20:52 -0500</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2024-01-25-second-spring-meeting/</guid>
+      <guid>https://pwsdc.github.io/posts/2024-01-25-second-spring-meeting/</guid>
       <description>club meeting, potential events, leetcode</description>
     </item>
   </channel>

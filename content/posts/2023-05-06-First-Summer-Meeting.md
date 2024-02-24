@@ -1,12 +1,13 @@
----
-title: "1st Summer Meeting"
-date: 2023-05-06T12:53:14-05:00
-draft: false
-summary: The first meeting with the new officers of the club.
-tags: ["meeting", "constitution", "goals"]
----
++++
+title = '1st Summer Meeting'
+date = 2023-05-06T12:53:14-05:00
+draft = false
+summary = 'The first meeting with the new officers of the club.'
+tags = ['meeting', 'constitution', 'goals']
++++
 
-## Attending
+## Attendance
+
 - Heather Page
 - Paul Shriner
 - Karl Miller
@@ -21,7 +22,7 @@ tags: ["meeting", "constitution", "goals"]
 ## Discussions
 
 - Discussed constitution changes
-    - We want to start drafting a new constitution, and will vote on adding items to guidelines for producting the draft. 
+    - We want to start drafting a new constitution, and will vote on adding items to guidelines for producing the draft. 
     - Christian is going to try to get template constitutions from SAI and/or other organizations
 
 - Discussed summer goals
@@ -40,9 +41,8 @@ tags: ["meeting", "constitution", "goals"]
 
 - Talk more about Eberly meetings
 - Begin work on Meeting Schedule for Fall + Workshops
-- Talk more about discord organization
+- Talk more about Discord organization
 - Talk more about Constitution Draft guidelines
 - Talk more about rebranding
 - Talk more about new member push early next semester
 - Talk about Weekend Discord Fun / Tutor Meetings
-

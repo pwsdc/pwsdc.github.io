@@ -1,10 +1,10 @@
----
-title: "2st Fall Meeting"
-date: 2023-08-31T11:00:00-12:00
-draft: false
-summary: pizza party, project ideas, club meeting
-tags: ["introduction", "elections", "suggestions", "content"]
----
++++
+title = '2nd Fall Meeting'
+date = 2023-08-31T11:00:00-12:00
+draft = false
+summary = 'pizza party, project ideas, club meeting'
+tags = ['introduction', 'elections', 'suggestions', 'content']
++++
 
 # Discussions
 
@@ -19,7 +19,9 @@ tags: ["introduction", "elections", "suggestions", "content"]
 	- Cloud Hosting
 	- Virtual Private Server
 	- Arduino
+
 # Votes
+
 **Vote Luke as Secretary**
 - Second by Christian and Jon.
 - 10 votes for.
@@ -31,4 +33,3 @@ tags: ["introduction", "elections", "suggestions", "content"]
 - 1 vote for "Testing".
 - 0 votes for "NextJS".
 - 0 votes for "Master Degrees".
-

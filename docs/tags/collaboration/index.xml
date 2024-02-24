@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>collaboration on PennWest Software Development Club</title>
-    <link>https://pennwest-california-programmingclub.github.io/tags/collaboration/</link>
-    <description>Recent content in collaboration on PennWest Software Development Club</description>
+    <title>Collaboration on Software Dev. Club</title>
+    <link>https://pwsdc.github.io/tags/collaboration/</link>
+    <description>Recent content in Collaboration on Software Dev. Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Made by [PWSDC](/)</copyright>
     <lastBuildDate>Thu, 14 Sep 2023 00:00:00 -1200</lastBuildDate>
-    <atom:link href="https://pennwest-california-programmingclub.github.io/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pwsdc.github.io/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Club Fair</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-09-14-club-fair/</link>
+      <link>https://pwsdc.github.io/posts/2023-09-14-club-fair/</link>
       <pubDate>Thu, 14 Sep 2023 00:00:00 -1200</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-09-14-club-fair/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-09-14-club-fair/</guid>
       <description>networking, club fair</description>
     </item>
   </channel>

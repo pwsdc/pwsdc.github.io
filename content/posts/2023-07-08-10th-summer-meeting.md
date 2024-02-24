@@ -1,12 +1,12 @@
----
-title: "10th Summer Meeting"
-date: 2023-07-08T15:46:52-04:00
-draft: false
-summary: rebranding, events review
-tags: ["logo", "events", "game jam"]
----
++++
+title = '10th Summer Meeting'
+date = 2023-07-08T15:46:52-04:00
+draft = false
+summary = 'rebranding, events review'
+tags = ['logo', 'events', 'game jam']
++++
 
-# Attending
+# Attendance
 
 - Luke Bates
 - Paul Shriner
@@ -37,8 +37,8 @@ We talked about some of the events we are thinking about
     - Similar to Code Jam
     - But with longer times
     - Break out teams
-    - Leet code problems
-    - Any language Goes
+    - LeetCode problems
+    - Any language goes
 - Collaborative Prizes
     - Best collaborative PR of the semester
     - Best new repo of the semester
@@ -49,10 +49,9 @@ We talked about some of the events we are thinking about
 
 - Emailed Professor Chen / Adding 2nd Faculty Advisor 
 - Logo status / Time frame for rebranding
-    - website
-    - discord
-    - discord invite on website
+    - Website
+    - Discord
+    - Discord invite on website
     - Flier
 - Events + time frame
 - Presentations
-

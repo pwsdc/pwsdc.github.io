@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>academics on PennWest Software Development Club</title>
-    <link>https://pennwest-california-programmingclub.github.io/tags/academics/</link>
-    <description>Recent content in academics on PennWest Software Development Club</description>
+    <title>Academics on Software Dev. Club</title>
+    <link>https://pwsdc.github.io/tags/academics/</link>
+    <description>Recent content in Academics on Software Dev. Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Made by [PWSDC](/)</copyright>
     <lastBuildDate>Sun, 21 May 2023 15:46:52 -0400</lastBuildDate>
-    <atom:link href="https://pennwest-california-programmingclub.github.io/tags/academics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pwsdc.github.io/tags/academics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3rd Summer Meeting</title>
-      <link>https://pennwest-california-programmingclub.github.io/posts/2023-05-21-third-summer-meeting/</link>
+      <link>https://pwsdc.github.io/posts/2023-05-21-third-summer-meeting/</link>
       <pubDate>Sun, 21 May 2023 15:46:52 -0400</pubDate>
-      <guid>https://pennwest-california-programmingclub.github.io/posts/2023-05-21-third-summer-meeting/</guid>
+      <guid>https://pwsdc.github.io/posts/2023-05-21-third-summer-meeting/</guid>
       <description>Talked about presentations, calendar, and treasury.</description>
     </item>
   </channel>
