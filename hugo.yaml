@@ -1,5 +1,4 @@
 baseURL: https://pwsdc.github.io/
-publishDir: 'docs'
 languageCode: en-us
 theme: ["PaperMod"]
 title: Software Dev. Club
