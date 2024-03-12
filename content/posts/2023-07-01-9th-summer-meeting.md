@@ -23,7 +23,7 @@ tags = ['presentation', 'logo', 'game jam']
 
 - Luke updated the current state of the hammer and is going to emphasize the `</>` symbol
 
-{{< figure src=/img/luke_draft_logo_asset_hammer_3d_003.png title="A render of a cell-shaded engineer's hammer" >}}
+{{< figure align=center src=/img/luke_draft_logo_asset_hammer_3d_003.png title="A render of a cell-shaded engineer's hammer" >}}
 
 ## Next Meeting
 
