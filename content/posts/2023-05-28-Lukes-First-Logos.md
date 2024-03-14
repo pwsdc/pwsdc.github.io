@@ -22,11 +22,11 @@ Luke shared some first draft logos.
 
 Karl liked the first logo a lot.
 
-{{< figure src=/img/luke_draft_1_logo.png title="Luke 1st Draft Type 1 Logo (2D)" >}}
+{{< figure align=center src=/img/luke_draft_1_logo.png title="Luke 1st Draft Type 1 Logo (2D)" >}}
 
 The consensus was that the second logo was better.
 
-{{< figure src=/img/luke_draft_2_logo.png title="Luke 1st Draft Type 2 Logo (Psuedo-3D)" >}}
+{{< figure align=center src=/img/luke_draft_2_logo.png title="Luke 1st Draft Type 2 Logo (Psuedo-3D)" >}}
 
 It was suggested that the 2nd one be modeled in a 3D modeler before generating a final SVG and some of the perspective lines got fixed. Both logos were big hits and we are excited about them.
 

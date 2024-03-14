@@ -20,7 +20,7 @@ tags = ['logo', 'advisor', 'content']
 
 We applied the new logo and redid the server name.
 
-{{< figure src=/img/Logo-Final.svg width="500">}}
+{{< figure align=center src=/img/Logo-Final.svg width="500">}}
 
 ### Room change to Eberly
 

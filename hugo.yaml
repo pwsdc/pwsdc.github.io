@@ -16,6 +16,10 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
+    - identifier: guides
+      name: Guides
+      url: /guides/
+      weight: 15
     - identifier: archive
       name: Archive
       url: /archive/
@@ -28,14 +32,14 @@ menu:
       name: Search
       url: /search/
       weight: 40
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 50
     - identifier: join
       name: Join the Club
       url: /join/
-      weight: 50
-    # - identifier: about
-    #   name: About
-    #   url: /about/
-    #   weight: 60
+      weight: 60
 
 params:
   defaultTheme: auto # Switch based on browser theme
