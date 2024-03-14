@@ -18,7 +18,7 @@ Our Discord server is where information about the club is posted and where commu
 
 You can also scan this QR Code:
 
-{{< figure src=/img/Discord-Invite.png width="500">}}
+{{< figure align=center src=/img/Discord-Invite.png width="500">}}
 
 # Engage
 

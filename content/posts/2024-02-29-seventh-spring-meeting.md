@@ -3,15 +3,19 @@ title = '7th Spring Meeting'
 date = 2024-03-01T12:02:40-05:00
 draft = false
 summary = 'club meeting, career center presentation'
-tags = ['meeting', 'presentation', 'career center', 'resume'] 
+tags = ['meeting', 'presentation', 'career', 'resume'] 
 +++
 
 ***
+
 # Overview
+
 - Attendance
 - Career Center Presentation
 - Next Week
+
 ***
+
 ## Attendance
 - Abu Shettima
 - Alice Bruce
@@ -19,9 +23,12 @@ tags = ['meeting', 'presentation', 'career center', 'resume']
 - Joshua Watson
 - Lavender Wilson
 - Matthew Williams
-- gue61646@pennwest.edu (name unknown)
+- Nicholas Guess
+
 ## Career Center Presentation
+
 ### Resumes
+
 Purpose of a resume: 
 - to get noticed by HR
 - first impression
@@ -35,35 +42,36 @@ Required skills for every job:
 - Teamwork, leadership
 - Strong work ethic / initiative
 
-You should be tailoring resume. A good place to start is to put everything you've ever done on your resume, then use it like a menu and choose certain things from it to include. Use the job description (contact the organization or google if not provided) to connect your resume to the job. 
+You should be tailoring your resume. A good place to start is to put everything you've ever done on your resume, then use it like a menu and choose certain things from it to include. Use the job description (contact the organization or use a search engine if not provided) to connect your resume to the job. 
 
 Recruiters are trained to scan through resumes very quickly and to look for certain keywords -- this is why using words from the job description is extremely important for getting noticed. 
 
 ### Sections of a resume
-<u>Education:</u>
+
+#### Education:
 
 Example 1 (specifically in education):
 
-    _Pennsylvania Western University, California, PA_ (bold)
-    __Bachelor of Science, May 20XX__ (bold)
+    Pennsylvania Western University, California, PA (bold)
+    Bachelor of Science, May 20XX (bold)
     Major: Computer Science
     Minor: Leadership
     Major GPA: 3.25/4.00
 
 Example 2 (anywhere else):
 
-	__Bachelor of Scinece in Applied Computing__ (bold)           December 20XX
+	Bachelor of Science in Applied Computing (bold)           December 20XX
 	Pennsylvania Western University, Clarion, PA
 	Cumulative GPA: 3.2/4.0               Major GPA: 3.5/4.0
 
-<u>Job Description</u>
-- Demonstrate responsibilities, achievementes, knowledge, and skills that are most relevant to the specific job for which you are applying
+#### Job Description
+- Demonstrate responsibilities, achievements, knowledge, and skills that are most relevant to the specific job for which you are applying
 - Use action verbs
 - Use past and present tense appropriately
 - Use bullet points, not paragraphs
 - __Do not use "I"__ 
 
-<u>Writing Bullet Points</u>
+#### Writing Bullet Points
 - Who: with whom did you work, or who did your job help?
 - What: what did you do (specifically)?
 - When: when did this happen (daily/weekly/monthly)?
@@ -71,7 +79,7 @@ Example 2 (anywhere else):
 - Where: where did you duties occur?
 - Results: quantify your results; how did your job duties help or add to the organization's ability to function?
 
-<u>Additional Tips</u>
+#### Additional Tips
 - List contact information horizontally
 - Ensure email address and voicemail are professional
 - No smaller than 10pt font
@@ -80,9 +88,9 @@ Example 2 (anywhere else):
 - If QPA is under 3.0, list it in your major
 - List most relevant jobs, experiences, and volunteer work at the beginning
 - Tailor headings based on experience
-- Avoid repetetiveness
+- Avoid repetitiveness
 
-<u>Additional Categories</u>
+#### Additional Categories
 - Relevant skills (not classes)
 - Leadership experience
 - Volunteering and community service
@@ -92,7 +100,7 @@ Example 2 (anywhere else):
 - Research
 - Special certifications
 
-<u>Typos and Errors</u>
+#### Typos and Errors
 - No excuse for misspelled words
 - Spell check, review resume with others
 - Don't include salary requirements or previous salaries

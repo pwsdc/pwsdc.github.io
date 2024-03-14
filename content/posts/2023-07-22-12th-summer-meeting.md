@@ -16,15 +16,15 @@ tags = ['logo']
 ## Logo / Rebranding
 
 - Karl presented some logos he had worked on over the last week
-{{< figure src=/img/logo-drafts/2023-07-22-karlhammer.png >}}
+{{< figure align=center src=/img/logo-drafts/2023-07-22-karlhammer.png >}}
 
 - Karl and Christian worked on some abstract logos during the meeting
-{{< figure src=/img/logo-drafts/2023-07-22-karl-and-christian-buggear-1.png >}}
-{{< figure src=/img/logo-drafts/2023-07-22-karl-and-christian-buggear-2.png >}}
+{{< figure align=center src=/img/logo-drafts/2023-07-22-karl-and-christian-buggear-1.png >}}
+{{< figure align=center src=/img/logo-drafts/2023-07-22-karl-and-christian-buggear-2.png >}}
 
 - Luke presented some logos he had worked on over the last week
-{{< figure src=/img/logo-drafts/2023-07-22-luke-sdc1.png >}}
-{{< figure src=/img/logo-drafts/2023-07-22-luke-sdc2.png >}}
+{{< figure align=center src=/img/logo-drafts/2023-07-22-luke-sdc1.png >}}
+{{< figure align=center src=/img/logo-drafts/2023-07-22-luke-sdc2.png >}}
 
 ## Agenda Next Meeting
 
