@@ -20,7 +20,7 @@ tags = ['presentation', 'internship', 'career', 'recruitment']
 ## IT Audit Division Presentation
 ### Auditor General Info
 - Tim DeFoor, PA's 52nd elected Auditor General and the first African American Auditor General in the state's history
-- Auditor General has been the Commonwealth's fiscal watchdog since 1810, responsible for ensuring taht taxpayer dollars are spent legally and properly
+- Auditor General has been the Commonwealth's fiscal watchdog since 1810, responsible for ensuring that taxpayer dollars are spent legally and properly
 - Mission: to serve the people of Pennsylvania by improving government accountability, transparency, and the effective use of taxpayer dollars
 ### Audit Reponsibilites
 4 types:
@@ -53,16 +53,16 @@ She started almost exactly one year ago; she applied late December of 2022; she 
 **A:** They do check certain aspects such as password parameters, reducing access to those who do not need it anymore; there are many standard practices, mainly comprised of automated things. They are very secure in their automated processes, especially since COVID. 
 
 **Q:** Internships are Sophomore minimum; if someone was graduating in the Spring, could they still do the internship before getting a full-time job?  
-**A:** Seniors are more than welcome to apply. You have up until 3 months post-graduation to fulfill the 900 hour requirement. They want PW students to keep coming to the Commonwealth, so they want to make it as accessible as possible to join them.
+**A:** Seniors are more than welcome to apply. If you join late and are performing well, you have up until 3 months post-graduation to fulfill the 900 hour requirement. They want PW students to keep coming to the Commonwealth, so they want to make it as accessible as possible to join them.
 
 **Q:** What are you looking for in an interview?  
 **A:** They want 2.5 or better GPA (cumulative), that you have at least 60 credits, and, in general, they look to see if you followed the proper directions to apply, and they look for competency-based resumes; how some experience has lead to an improvement in a specific skill. For interviews, they expect you to be nervous; if you are, they know that you care and want to do well. Don't be afraid to be honest, and try your best to answer every question to the best of your ability. 
 
-**Q:** Do you have to submit separate applications for different bureau?  
-**A:** There are two application links that are live currently. There are 2 links on paauditor.gov/careers, you can apply to both, but after your application is screened, you are eligible for any bureau. 
+**Q:** Do you have to submit separate applications for different bureaus?  
+**A:** There are two application links that are live currently. There are 2 links on [the PA Auditor General website](https://www.paauditor.gov/careers); you can apply to both, but after your application is screened, you are eligible for any bureau. 
 
 **Q:** What are some technical skills or experiences that students need?  
-**A:** From an entry-level perspective, you just need to be minimally qualified. You don't need to be any specific major, but you only need just 12 credits in any of the related fields. A basic Excel and Word knowledge is enough, as well as other Microsoft Suite applications. Written communication is very important, sometimes more important than the rest of the work.
+**A:** From an entry-level perspective, you just need to be minimally qualified. You don't need to be any specific major, you only need just 12 credits in any of the related fields. A basic Excel and Word knowledge is enough, as well as other Microsoft Suite applications. Written communication is very important, sometimes more important than the rest of the work.
 
 **Q:** How difficult is it as a senior to do the Intern 2 Hire progam?  
 **A:** You do have to essentially become a full-time employee to get at the 900 hour requirement, although you can do a lot of it during the summer, and that's why there are three months post-graduation to complete them. 
