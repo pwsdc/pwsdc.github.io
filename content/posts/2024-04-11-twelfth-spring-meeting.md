@@ -50,7 +50,7 @@ This is a lesson in input: you should _always_ sanitize input from your user.
 ### Next Semester Meeting Times
 Since most of our core members were here for the meeting, we wanted to figure out what times/days would be good now that Common Hour is gone.
 
-We decided that we'll be meeting on __Tuesdays__ from __5-6__, both in-person (most likely the same as usual, __Eberly 342__), as well as including online users who can't make it there in person. 
+We decided that it would currently be best to meet on __Tuesdays__ from __5-6__, both in-person (most likely the same as usual, __Eberly 342__), as well as including online users who can't make it there in person. This decision, however, is not set in stone and may change. 
 
 ### Other Topics
 There were many other smaller discussion topics, including:
