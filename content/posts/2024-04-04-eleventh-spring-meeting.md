@@ -3,7 +3,7 @@ title = '11th Spring Meeting'
 date = 2024-04-04T10:59:52-04:00
 draft = false
 summary = 'good IDE, general discussion'
-tags = ['IDE',  'event', 'election']
+tags = ['IDE',  'events', 'elections']
 +++
 ***
 # Overview
