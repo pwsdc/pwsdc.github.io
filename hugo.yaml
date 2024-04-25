@@ -16,10 +16,10 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
-    # - identifier: guides
-    #   name: Guides
-    #   url: /guides/
-    #   weight: 15
+    - identifier: guides
+      name: Guides
+      url: /guides/
+      weight: 15
     - identifier: archive
       name: Archive
       url: /archive/
