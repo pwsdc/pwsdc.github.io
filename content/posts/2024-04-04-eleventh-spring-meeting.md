@@ -25,7 +25,7 @@ tags = ['IDE',  'events', 'elections']
 - The problem with this editor is that it is old and not widely used.
 - However, that does not necessarily make it a bad choice if someone needs a text editor.
 ### Dev C++
-- One should never use this IDE! We had a [previous meeting](https://pwsdc.github.io/posts/2024-02-15-fifth-spring-meeting/) dedicated to discussing the drawbacks to using this IDE.
+- One should never use this IDE! We had a [previous meeting](/posts/2024-02-15-fifth-spring-meeting) dedicated to discussing the drawbacks to using this IDE.
 ### Visual Studio
 - This option is an actual IDE that contains debugging and performance checking tools.
 - Has built-in C# and Nuget support
