@@ -55,6 +55,29 @@ There are several ways to compile and run C/C++ programs within VS Code, we will
 
 [Here](/guide_vscode_cpp_resources/Makefile-c) is a Makefile for C, and [here](/guide_vscode_cpp_resources/Makefile-cpp) is one for C++. These include pipelines for unit testing, but it is not required to use unit testing in this environment. These Makefiles work on both Windows and Linux.
 
+## Installing Make
+
+To use a Makefile, you will need make installed on your computer.
+
+### Windows
+
+Assuming that you used MSYS2 to install GCC/G++, you can enter this command into the MSYS2 shell to install make:
+
+```
+pacman -S make
+```
+
+You will need to add the path "msys64\usr\bin" to your user path environment variable.
+
+
+### Linux
+
+The command to use will vary depending on the distribution. On Fedora and other rpm based distros, you can use the command:
+
+```
+sudo dnf install make
+```
+
 ## Creating the Folder Structure
 
 Create a base folder, call it what you want. Inside the folder, create two folders called "src" and "tests". Copy the Makefile you downloaded earlier into the base folder, being sure to rename it to "Makefile". Open the base folder in VS Code, it should look like this:
