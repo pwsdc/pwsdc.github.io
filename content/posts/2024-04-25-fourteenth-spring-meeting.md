@@ -20,7 +20,7 @@ tags = ['meeting', 'presentation', 'senior project']
 - Lavender Wilson
 - Matthew Williams
 - Paul Shriner
-- Luke Vokovich
+- Luke Vukovich
 ## Senior Projects
 Two groups quickly presented their senior project slides to the club.
 ### DeckTechCentral
