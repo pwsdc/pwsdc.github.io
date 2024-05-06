@@ -58,4 +58,4 @@ Dr. Menon reached out to us about having CIS students present various topics in 
 
 ## Next Meeting
 
-We aim to do a meeting on Saturday May 10, 2024 at 7 PM. An announcement along with a meeting agenda will be posted closer to the meeting date. Currently, we aim to discuss the constitution articles we looked into, any feedback we've received from reaching out to people, and a meeting time for the fall semester.
+We aim to do a meeting on Saturday May 11, 2024 at 7 PM. An announcement along with a meeting agenda will be posted closer to the meeting date. Currently, we aim to discuss the constitution articles we looked into, any feedback we've received from reaching out to people, and a meeting time for the fall semester.
