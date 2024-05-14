@@ -1,5 +1,5 @@
 +++
-title = '5th Fall Meeting - Right-Click Composer'
+title = '5th Fall 2023 Meeting - Right-Click Composer'
 date = 2023-09-28T11:00:00-12:00
 draft = false
 summary = 'club meeting, presentation, ai'

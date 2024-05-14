@@ -1,5 +1,5 @@
 +++
-title = '7th Fall Meeting - The Demoscene'
+title = '7th Fall 2023 Meeting - The Demoscene'
 date = 2023-10-12T11:00:00-12:00
 draft = false
 summary = 'club meeting, presentation, retro'

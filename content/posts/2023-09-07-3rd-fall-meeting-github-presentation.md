@@ -1,5 +1,5 @@
 +++
-title = '3rd Fall Meeting - Git + GitHub Intro'
+title = '3rd Fall 2023 Meeting - Git + GitHub Intro'
 date = 2023-09-07T11:00:00-12:00
 draft = false
 summary = 'logo status, faculty advisor, club meeting'

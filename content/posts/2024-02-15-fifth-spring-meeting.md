@@ -1,5 +1,5 @@
 +++
-title = '5th Spring Meeting'
+title = '5th Spring 2024 Meeting'
 date = 2024-02-15T10:54:17-05:00
 draft = false
 summary = 'club meeting, downsides of using dev c++, dev c++ alternatives'

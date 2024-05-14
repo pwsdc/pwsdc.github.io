@@ -1,5 +1,5 @@
 +++
-title = '2nd Summer Meeting'
+title = '2nd Summer 2023 Meeting'
 date = 2023-05-13T15:46:52-04:00
 draft = false
 summary = 'Talked about meeting format, recruiting new members, constitution.'

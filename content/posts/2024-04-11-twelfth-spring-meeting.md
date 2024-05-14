@@ -1,5 +1,5 @@
 +++
-title = '12th Spring Meeting'
+title = '12th Spring 2024 Meeting'
 date = 2024-04-11T12:13:25-04:00
 draft = false
 summary = 'next semester meeting times, general discussion'
