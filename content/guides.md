@@ -1,6 +1,6 @@
 +++
 title = 'Guides'
-draft = false
+draft = true
 summary = 'Guides written by the club'
 +++
 

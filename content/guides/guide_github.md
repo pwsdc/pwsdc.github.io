@@ -1,7 +1,7 @@
 +++
 title = 'How to set up Git/GitHub'
 date = 2024-05-09T22:11:03-04:00
-draft = false
+draft = true
 summary = 'Guide for using version control through Git/GitHub'
 tags = ['guide', 'git']
 +++

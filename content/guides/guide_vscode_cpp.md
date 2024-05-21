@@ -1,7 +1,7 @@
 +++
 title = 'Using VS Code for C/C++'
 date = 2024-04-22T10:26:03-04:00
-draft = false
+draft = true
 summary = 'Guide for developing C/C++ programs using VS Code'
 tags = ['guide', 'C-C++', 'VS Code']
 +++
