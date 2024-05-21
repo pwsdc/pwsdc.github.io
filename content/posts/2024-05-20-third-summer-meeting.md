@@ -16,6 +16,7 @@ tags = ['meeting', 'club-fair', 'goals', 'suggestions']
 - Jonathan Buckel
 - Lavender Wilson
 - Matthew Williams
+- Paul Maclean
 - Paul Shriner
 # Club Direction
 We've recently been struggling to retain new members. The current officers seemed to have primarily joined because they were interested in furthering their career and learning things outside of classes, but we think that that approach is not very popular among the majority of students. 
