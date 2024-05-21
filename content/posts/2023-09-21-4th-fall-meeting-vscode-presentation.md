@@ -1,5 +1,5 @@
 +++
-title = '4th Fall Meeting - VS Code is Better Than Dev-C++'
+title = '4th Fall 2023 Meeting - VS Code is Better Than Dev-C++'
 date = 2023-09-21T11:00:00-12:00
 draft = false
 summary = 'club meeting, presentation'

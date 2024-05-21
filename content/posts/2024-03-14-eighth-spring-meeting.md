@@ -1,5 +1,5 @@
 +++
-title = '8th Spring Meeting'
+title = '8th Spring 2024 Meeting'
 date = 2024-03-14T12:14:39-04:00
 draft = false
 summary = 'C# presentation, teaching Git/using VSCode in classes'

@@ -1,5 +1,5 @@
 +++
-title = '4th Winter Meeting'
+title = '4th Winter 2023 Meeting'
 date = 2024-01-10T13:06:41-05:00
 draft = false
 summary = 'club meeting, leetcode problems'

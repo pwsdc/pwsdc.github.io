@@ -1,5 +1,5 @@
 +++
-title = '6th Fall Meeting - Erie Insurance'
+title = '6th Fall 2023 Meeting - Erie Insurance'
 date = 2023-10-05T11:00:00-12:00
 draft = false
 summary = 'club meeting, presentation, informational session, internship'

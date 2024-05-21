@@ -1,5 +1,5 @@
 +++
-title = '8th Fall Meeting - Docker & Microservices'
+title = '8th Fall 2023 Meeting - Docker & Microservices'
 date = 2023-10-19T11:00:00-12:00
 draft = false
 summary = 'club meeting, presentation, docker'
