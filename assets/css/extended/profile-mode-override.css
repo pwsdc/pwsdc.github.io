@@ -1,0 +1,7 @@
+.profile_inner .button {
+    background: var(--sdcgreen);
+}
+
+.profile_inner h1 {
+    font-family: phoenix, sans-serif;
+}

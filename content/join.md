@@ -4,17 +4,21 @@ draft = false
 summary = 'Information on how to join the club'
 +++
 
-To become a current member of the club, you must attend at least two weekly meetings or events in the semester. If you have any extenuating circumstances, let an officer know. 
+Howdy! We are glad to have you!
+
+To become a current member of the club, you must attend **at least two meetings or events** in the semester. If you have any extenuating circumstances, let an officer know. 
+
+We ask everyone to join our Discord server, and all current members to join our Engage (more information below).
 
 # Weekly Meetings
 
-Meetings are held in Eberly 342, Thursdays at 11:00 AM EST. You may also join via Discord voice chat, if the "Club Meeting VC" channel is not open let an officer know.
+Meeting information will be updated for the Fall 2024 semester.
 
 # Discord
 
-Our Discord server is where information about the club is posted and where communication outside of weekly meetings occur. This is our "central hub" for the club. Here is the link: 
+Our Discord server is where information about the club is posted and where communication outside of in-person meetings occur. This is our "central hub" for the club. Here is the link: 
 
-[https://discord.gg/Pvv2Eu8FrF](https://discord.gg/Pvv2Eu8FrF)
+[**https://discord.gg/Pvv2Eu8FrF**](https://discord.gg/Pvv2Eu8FrF)
 
 You can also scan this QR Code:
 
@@ -22,12 +26,12 @@ You can also scan this QR Code:
 
 # Engage
 
-Our club has a profile on Engage, this is what PennWest uses for evaluating the club. As such, all current members should join the Engage. Here is the link:
+Our club has a profile on Engage, this is what PennWest uses for evaluating the club. Here is the link:
 
-[https://engage.pennwest.edu/organization/caprogra](https://engage.pennwest.edu/organization/caprogra)
+[**https://engage.pennwest.edu/organization/caprogra**](https://engage.pennwest.edu/organization/caprogra)
 
 # Instagram
 
 The Instagram will be used for posting photos from the club, such as any events we run/take part in. Here is the link: 
 
-[https://www.instagram.com/calu_programming_club/](https://www.instagram.com/calu_programming_club/)
+[**https://www.instagram.com/calu_programming_club**](https://www.instagram.com/calu_programming_club)

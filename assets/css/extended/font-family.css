@@ -1,0 +1,9 @@
+@font-face {
+    font-family: phoenix;
+    src: url(../../../fonts/Ac437_PhoenixVGA_9x8.ttf);
+}
+
+@font-face {
+    font-family: acm;
+    src: url(../../../fonts/Ac437_ACM_VGA_8x16.ttf);
+}

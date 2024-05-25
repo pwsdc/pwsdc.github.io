@@ -1,0 +1,7 @@
+:root {
+    --sdcgreen: rgb(57, 198, 167);
+}
+
+.dark {
+    --sdcgreen: rgb(24, 82, 69);
+}
