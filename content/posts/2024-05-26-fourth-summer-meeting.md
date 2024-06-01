@@ -40,9 +40,9 @@ The benefits from this are numerous. It's rewarding to build a project from the 
 More information about the Playdate can be found on their site [here](https://play.date/). The actual unit costs $199, but they offer an officially supported emulator for free. We decided that we would start purely on the emulator, then if interest is high enough, we can buy the real unit.
 
 # Presentations
-Jon discussed that you need to be passionate about what you're covering in a presentation, as it will show if you're not. Further, he brought up some bad presentation habits, including being too rigid, too quiet, and not being able to adapt to change. This is something the officers (particulary Paul and Matt) will need to work on. 
+Jon discussed that you need to be passionate about what you're covering in a presentation, as it will show if you're not. Further, he brought up some bad presentation habits, including being too rigid, too quiet, and not being able to adapt to change. This is something the officers (particularly Paul and Matt) will need to work on. 
 
-As this is a club, it does not need to (and should not be) too professional. It's a good chance to learn and experiment (and as Jon said, embarass yourself). We can also just ask if there's areas we need to work on, people want to help!
+As this is a club, it does not need to (and should not be) too professional. It's a good chance to learn and experiment (and as Jon said, embarrass yourself). We can also just ask if there's areas we need to work on, people want to help!
 
 # Next Week
 For next week, the officers will research Gameboy and Playdate development. We encourage anyone who will be coming next semester to stop by the next meeting to offer your feedback on our ideas. The meeting day/time will be posted closer to the meeting.

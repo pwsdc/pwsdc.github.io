@@ -44,4 +44,4 @@ Software Development Club was founded as the Cal Programming Club in 2019. The c
 
 # Club Documents
 
-Documents, such as our consitution, can be found on our Engage page or on the Club Discord (links are on [*Join the Club*](/join)).
+Documents, such as our constitution, can be found on our Engage page or on the Club Discord (links are on [*Join the Club*](/join)).
