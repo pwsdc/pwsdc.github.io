@@ -2,7 +2,7 @@ baseURL: https://pwsdc.github.io/
 languageCode: en-us
 theme: ["PaperMod"]
 title: Software Dev. Club
-copyright: Made by [PWSDC](/)
+copyright: Made by [PWSDC](https://github.com/pwsdc)
 
 outputs:
   home:
@@ -16,10 +16,6 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
-    # - identifier: guides
-    #   name: Guides
-    #   url: /guides/
-    #   weight: 15
     - identifier: archive
       name: Archive
       url: /archive/
@@ -49,12 +45,19 @@ params:
 
   profileMode:
     enabled: true
-    title: "PennWest (Cal) Software Development Club" # optional default will be site title
-    subtitle: "We explore all aspects of software development (not just programming)!"
+    title: "PennWest Software Development Club" # optional default will be site title
+    subtitle: "Come explore software development with us!"
     imageUrl: "img/logo.png" # optional
     imageTitle: "Club Logo" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
+      - name: About
+        url: "/about"
       - name: Join the Club
         url: "/join"
+  
+  assets:
+    favicon: "favicon/favicon.ico"
+    favicon16x16: "favicon/favicon-16x16.png"
+    favicon32x32: "favicon/favicon-32x32.png"
