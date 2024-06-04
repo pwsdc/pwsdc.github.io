@@ -18,17 +18,17 @@ tags = ['PlayDate', 'GameBoy', 'meeting', 'retro', 'technologies']
 - Lavender Wilson
 - Matthew Williams
 - Paul Shriner
-# Playdate/GameBoy development
+# Playdate/GameBoy Development
 We found that there were a few options for GameBoy development, mainly concerning the following: 
 - Developing programs in ASM
 - Developing programs in C (particularly the GameBoy Development Kit)
 - Developing via a more visual IDE (GBStudio)  
 
-We found that jumping straight in (with C) wasn't bad, andthought that going the ASM route would probably be a bad move. We also thought that GBStudio could be a good route due to its ease of access/use as a more visual IDE.  
+We found that jumping straight in (with C) wasn't bad, and thought that going the ASM route would probably be a bad move. We also thought that GBStudio could be a good route due to its ease of access/use as a more visual IDE.  
 
 For playdate development, it seemed that getting started and using the SDK was much easier than expected, so it may be a good choice that many people can more easily get started with. 
 
-Abu shared an idea for a game combining details from trivia games and RPGs, where the player would be asked a trivia question and then the correctness of the anwser would influence the following RPG section, which is an interesting idea.  
+Abu shared an idea for a game combining details from trivia games and RPGs, where the player would be asked a trivia question and then the correctness of the answer would influence the following RPG section, which is an interesting idea.  
 
 For GameBoy development in general, we think that it could be the harder route to go since the hardware is older, especially considering that a generally lower level route is less accessible to newer members. We think that going the high-level route (the PlayDate route) would be in the better interests for the club as a whole.  
 
@@ -40,7 +40,7 @@ Here are some ideas that popped up (not necessarily the scope that we want):
 - Abu's RPG idea (above)
 - Some other kind of retro-styled game
 
-# Development Resources
+# PlayDate and Lua Resources
 - [Lua](https://lua.org/download.html)
 - [VSCode Lua extension](https://marketplace.visualstudio.com/items?itemName=sumneko.lua)
 - [PlayDate SDK](https://play.date/dev/) (includes some example games)
