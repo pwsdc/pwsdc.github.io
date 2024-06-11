@@ -20,7 +20,7 @@ tags = ['meeting', 'playdate', 'retro', 'advertising']
 - Matthew Williams
 - Paul Shriner
 # Playdate Development
-We found that there's a pretty nice web tool called [Pulp](https://play.date/pulp/) that is essentially an entire game engine for easily making games for the Playdate. It inculdes things like a visual tile editor, a scripting portion, a music editor, and some other things. 
+We found that there's a pretty nice web tool called [Pulp](https://play.date/pulp/) that is essentially an entire game engine for easily making games for the Playdate. It includes things like a visual tile editor, a scripting portion, a music editor, and some other things. 
 Lavender briefly showed off their progress in the small demo game they're working on, which is a simple music playing game. The project will be made available soon on [their GitHub page](https://github.com/lavender-aa?tab=repositories).
 # Club Advertising/Merchandising
 We had some general discussion surrounding stickers (primarily to give out during club fairs and other events). We think they could be a good idea, but we will need to figure out the details (what to print, how many, estimated cost), likely involving the SAI for help. We think that other merchandising such as apparel or thumb drives could be good as well. 
