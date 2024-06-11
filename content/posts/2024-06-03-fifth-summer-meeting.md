@@ -2,8 +2,8 @@
 title = '5th Summer 2024 Meeting'
 date = 2024-06-03T20:26:48-04:00
 draft = false
-summary = 'PlayDate and GameBoy research findings, project ideas, development areas'
-tags = ['PlayDate', 'GameBoy', 'meeting', 'retro', 'technologies']
+summary = 'playdate and gameboy research findings, project ideas, development areas'
+tags = ['playdate', 'gameboy', 'meeting', 'retro', 'technologies']
 +++
 ***
 # Overview
