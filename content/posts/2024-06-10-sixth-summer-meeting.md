@@ -30,4 +30,4 @@ An event like an expo was proposed, but we currently don't have much to show off
 We also talked about how having some kind of big event, something like a hackathon (not named that way, since it caused the event not to happen in a previous semester). A good way to get people to come to an event is to advertise free stuff (food works especially well), and then the people who are interested in the club can stay and learn more. 
 We talked about possibly doing something in Natali to garner more attention from people passing by. 
 # Next Week
-We'll be having a meeting at the day and time next week (**Monday, June 17th** at **7 PM**). 
+We'll be having a meeting on the same day and time next week (**Monday, June 17th** at **7 PM**). 
