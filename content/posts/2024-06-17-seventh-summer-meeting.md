@@ -10,7 +10,7 @@ tags = ['meeting', 'playdate', 'project', 'outreach']
 # Overview
 
 - Attendance
-- GitHub Web Hooks
+- GitHub Webhooks
 - Constitution Revisions
 - PlayDate Development
 - Meeting Schedule for Fall
@@ -25,17 +25,17 @@ tags = ['meeting', 'playdate', 'project', 'outreach']
 - Matthew Williams
 - Paul Shriner
 
-# GitHub Web Hooks
+# GitHub Webhooks
 
-Paul changed the functionality of GitHub reminders on the club's Discord server to make notifications less intrusive. Any unintended side effects should be reported to him as he has the required server permissions to fix anything.
+Paul updated the settings for the GitHub webhook, now the github-updates channel should be less annoying! Any unintended side effects should be reported to him as he has the required permissions on our GitHub organization to fix anything.
 
 # Constitution Revisions
 
-Paul shared a OneDrive link to constitution revisions for officers to edit in the officer-links-and-files channel.
+Paul shared a OneDrive link to constitution revisions for officers to edit.
 
 Changes include:
-- Renamed the club from Programming Club to Software Development Club 
-- Updated university references from California University to Pennsylvania Western University
+- Renamed the club from Programming Club to PennWest Software Development Club 
+- Updated university references from California University to PennWest California
 - Added general comments
 
 Officers should use the comment feature for changes and add notes on the last page for a collaborative effort.
@@ -68,13 +68,18 @@ Additionally, Jon suggested that we hold small weekly Lua demonstrations so club
 
 # Meeting Schedule for Fall
 
-Meetings should avoid Thursday nights; Tuesday is preferred. The officers are considering multiple meetings per week, with one being more laid-back (e.g., game/code jam with prizes). However, nothing has been decided yet.
+Meetings should avoid Thursday nights due to conflicts with other popular clubs. In the past, attendees generally agreed that Tuesday evenings were preferred since there are no late CS and CIS classes on that day. The officers are considering multiple meetings per week, with one being more laid-back (e.g., game/code jam with prizes). However, nothing has been decided yet.
 
 # Flyers
 
-Paul presented three potential flyers. There was a general agreement on using the first flyer, with an added Discord link or a Linktree. The second flyer was deemed too cluttered. The third flyer could be suitable for smaller purposes (e.g., social media/small pamphlet).
+Paul presented three potential flyers:
+- The first flyer had a minimalistic design and was symmetrically structured 
+- The second flyer had a less structured design, but contained more information
+- The third flyer had smaller dimensions, but kept a similar structure to the first one 
 
-Anyone is open to suggesting additional flyer ideas.
+There was a general agreement on using the first flyer as the attendees found the minimalistic design easy to quickly glance at. The second flyer was deemed too cluttered, with many objects unnecessarily plastered on it. The third flyer could be suitable for smaller purposes (e.g., social media/small pamphlet). Any flyer that we choose to put out could have a QR code that links to our GitHub page or a Linktree.  
+
+We encourage anyone to suggest additional flyer ideas!
 
 # Next Week
 
