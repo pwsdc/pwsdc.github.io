@@ -3,7 +3,7 @@ title = '1st Summer 2024 Meeting'
 date = 2024-05-05T21:50:46-04:00
 draft = false
 summary = 'club meeting, plans going forward'
-tags = ['meeting', 'constitution', 'presentation']
+tags = ['meeting', 'constitution', 'presentation', 'discord', 'advisor']
 +++
 
 ***
@@ -58,4 +58,6 @@ Dr. Menon reached out to us about having CIS students present various topics in 
 
 ## Next Meeting
 
-We aim to do a meeting on Saturday May 11, 2024 at 7 PM. An announcement along with a meeting agenda will be posted closer to the meeting date. Currently, we aim to discuss the constitution articles we looked into, any feedback we've received from reaching out to people, and a meeting time for the fall semester.
+We aim to do a meeting on **Saturday May 11, 2024** at **7 PM**, anyone is welcome to join!
+
+Currently, we plan to discuss the constitution articles we looked into, any feedback we've received from reaching out to people, and a meeting time for the fall semester.

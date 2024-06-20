@@ -3,7 +3,7 @@ title = '6th Summer 2024 Meeting'
 date = 2024-06-10T20:33:46-04:00
 draft = false
 summary = 'playdate development, advertising'
-tags = ['meeting', 'playdate', 'retro', 'advertising']
+tags = ['meeting', 'playdate', 'retro', 'advertising', 'merch', 'events']
 +++
 
 ***
@@ -54,4 +54,4 @@ To further promote the club, we could do something in Natali to grab the attenti
 
 # Next Week
 
-Our next meeting will be on **Monday, June 17th** at **7 PM**. 
+Our next meeting will be on **Monday, June 17th** at **7 PM**, feel free to drop by! 

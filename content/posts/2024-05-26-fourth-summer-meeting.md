@@ -3,7 +3,7 @@ title = '4th Summer 2024 Meeting'
 date = 2024-05-26T22:13:00-04:00
 draft = false
 summary = 'club direction, gameboy/playdate development'
-tags = ['meeting', 'suggestions', 'retro']
+tags = ['meeting', 'suggestions', 'retro', 'gameboy', 'playdate', 'presentation']
 +++
 
 ***
@@ -29,7 +29,7 @@ tags = ['meeting', 'suggestions', 'retro']
 
 Last meeting, we (the officers) were tasked with brainstorming topics we are passionate about. Here is what we came up with:
 
-* Cyber Security / Privacy
+* Cybersecurity / Privacy
 * Jailbreaking / Rooting
 * JRPG / RPG Maker / Retro Gaming / Retro Computers
 
@@ -64,4 +64,4 @@ This is something the officers (particularly Paul and Matt) will need to work on
 
 For next week, the officers will research Gameboy and Playdate development. We encourage anyone who will be coming next semester to stop by the next meeting to offer your feedback on our ideas.
 
-The meeting day/time will be posted closer to the meeting.
+Watch our Discord for the next meeting time!

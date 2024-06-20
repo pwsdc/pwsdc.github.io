@@ -33,11 +33,11 @@ From now on, we'll have 1-2 main discussion topics, followed by more scattered/u
 
 # Constitution
 
-Last week, some of our officers looked at certain sections of our constitution for potential adjustments. Some of the sections were relatively simple/less important, and so were skipped.
+Last week, some of our officers looked at sections of our constitution for potential adjustments. Some of the sections were relatively simple/less important, and so were skipped.
 
 Separately, Christian recommends that we focus on only changing the name of the club on the constitution, and instead putting our time towards more important topics (such as gaining members in the near future). 
 
-He also mentioned that, so long as nobody commits any kind of fraud, PennWest does not really enforce club's constitutions very much, especially for smaller clubs.
+He also mentioned that, so long as nobody commits any kind of fraud, PennWest does not really enforce club constitutions very much, especially for smaller clubs.
 
 ## Article 4 - Officers
 
@@ -88,4 +88,4 @@ We want to be more prepared for the next club fair(s), but since they are still 
 
 Next week, we'll be focusing much more on general strategies to gain new members. 
 
-Our next meeting will be on **Monday, May 20th** at **8:30 PM**. 
+Our next meeting will be on **Monday, May 20th** at **8:30 PM**, feel free to drop by!

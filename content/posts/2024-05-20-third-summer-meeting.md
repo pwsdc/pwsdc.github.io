@@ -33,7 +33,7 @@ We asked former officers of the club for advice; their suggestions were extremel
 
 The overall changes we feel need to happen include:
 - Make meetings and the club overall less formal.
-- Reduce the number of presentaton meetings (which are rigid and mostly unengaging), instead encouraging more general discussions and fun activities.
+- Reduce the number of presentation meetings (which are rigid and mostly unengaging), instead encouraging more general discussions and fun activities.
 - Broaden the scope of the club, especially focusing on more casual social events. We will need to be careful not to spread ourselves out too thin. 
 - Appeal to a newer and less serious audience.
 
@@ -59,6 +59,6 @@ To create a more casual and inviting environment, the officers will all need to 
 
 # Next Week
 
-We won't have a meeting Monday next week as it's Memorial Day. We'll post an announcement as soon as we know the day and time of the next meeting.
+We won't have a meeting Monday next week as it's Memorial Day. We'll post the next meeting time on Discord as soon as we can!
 
 For the contents of next week, we want to start with discussing activities we can have during club meetings that are aimed towards newer/less experienced members, as well as list the things that we're passionate about which we could incorporate into meeting topics. 
