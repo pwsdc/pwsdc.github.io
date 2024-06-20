@@ -68,7 +68,7 @@ Additionally, Jon suggested that we hold small weekly Lua demonstrations so club
 
 # Meeting Schedule for Fall
 
-Meetings should avoid Thursday nights due to conflicts with other popular clubs. In the past, attendees generally agreed that Tuesday evenings were preferred since there are no late CS and CIS classes on that day. The officers are considering multiple meetings per week, with one being more laid-back (e.g., game/code jam with prizes). However, nothing has been decided yet.
+Meetings should avoid Thursday nights due to conflicts with other popular clubs. In the past, we agreed that Tuesday evenings were preferred since there are no late CS and CIS classes on that day. The officers are considering multiple meetings per week, with one being more laid-back (e.g., game/code jam with prizes). However, nothing has been decided yet.
 
 # Flyers
 
@@ -77,11 +77,11 @@ Paul presented three potential flyers:
 - The second flyer had a less structured design, but contained more information
 - The third flyer had smaller dimensions, but kept a similar structure to the first one 
 
-There was a general agreement on using the first flyer as the attendees found the minimalistic design easy to quickly glance at. The second flyer was deemed too cluttered, with many objects unnecessarily plastered on it. The third flyer could be suitable for smaller purposes (e.g., social media/small pamphlet). Any flyer that we choose to put out could have a QR code that links to our GitHub page or a Linktree.  
+There was a general agreement on using the first flyer as we found the minimalistic design easy to quickly glance at. The second flyer was deemed too cluttered, with many objects unnecessarily plastered on it. The third flyer could be suitable for smaller purposes (e.g., social media/small pamphlet). Any flyer that we choose to put out could have a QR code that links to our GitHub page or a Linktree.  
 
 We encourage anyone to suggest additional flyer ideas!
 
 # Next Week
 
 - Discuss the PlayDate club fair project idea with all officers and agree on a direction.
-- The next meeting time will be posted on Discord.
+- We will post the next meeting time on our Discord, feel free to drop by!
