@@ -68,7 +68,7 @@ Additionally, Jon suggested that we hold small weekly Lua demonstrations so club
 
 # Meeting Schedule for Fall
 
-Meetings should avoid Thursday nights due to conflicts with other popular clubs. In the past, we agreed that Tuesday evenings were preferred since there are no late CS and CIS classes on that day. The officers are considering multiple meetings per week, with one being more laid-back (e.g., game/code jam with prizes). However, nothing has been decided yet.
+Meetings should avoid Thursday nights due to conflicts with other popular clubs. In the past, attendees generally agreed that Tuesday evenings were preferred since there are no late CS and CIS classes on that day. The officers are considering multiple meetings per week, with one being more laid-back (e.g., game/code jam with prizes). However, nothing has been decided yet.
 
 # Flyers
 
