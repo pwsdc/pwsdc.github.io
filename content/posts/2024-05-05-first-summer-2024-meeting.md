@@ -28,11 +28,11 @@ tags = ['meeting', 'constitution', 'presentation', 'discord', 'advisor']
 
 ## What are Summer Meetings?
 
-We will be holding summer meetings so the officers can prepare for the fall semester and so anyone can join and hang out. For each meeting, we will have an agenda to follow. Once we're done with items on the agenda, the floor will be open for anyone to present anything (such as personal projects, internships, or just something interesting). This specifc meeting was more "off the cuff", we will aim to have more structured meetings going forward.
+We will be holding summer meetings so the officers can prepare for the fall semester and so anyone can join and hang out. For each meeting, we will have an agenda to follow. Once we're done with items on the agenda, the floor will be open for anyone to present anything (such as personal projects, internships, or just something interesting). This specific meeting was more "off the cuff", we will aim to have more structured meetings going forward.
 
 ## Constitution
 
-The current club constitution has not been updated for a long time and needs major improvements. We are aiming to overhual the constitution during the summer.
+The current club constitution has not been updated for a long time and needs major improvements. We are aiming to overhaul the constitution during the summer.
 
 Our first step is to understand what's in the current constitution. We feel it would be reckless to try to make changes if all the officers do not have a thorough understanding of its current state. 
 

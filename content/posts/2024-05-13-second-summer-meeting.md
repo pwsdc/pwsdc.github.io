@@ -29,7 +29,7 @@ tags = ['meeting', 'advisor', 'club-fair', 'constitution', 'schedule']
 
 # Meeting Agendas
 
-From now on, we'll have 1-2 main discussion topics, followed by more scattered/unrelated dscussions.
+From now on, we'll have 1-2 main discussion topics, followed by more scattered/unrelated discussions.
 
 # Constitution
 
