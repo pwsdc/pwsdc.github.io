@@ -13,10 +13,10 @@ tags = ['meeting', 'presentation', 'git']
 - Attendance
 - Git/GitHub Presentation
 	- What is Git/GitHub?
-	- Using Git
+	- Using Git (via Terminal)
 	- Using GitHub
 	- Actually Using GitHub
-	- Group work
+	- Group Work: Forks, Pull Requests, and Merge Conflicts
 	- Gitignore
 - Next Week
 
@@ -35,7 +35,7 @@ tags = ['meeting', 'presentation', 'git']
 
 ## GitHub Presentation
 
-### Git/GitHub
+### What is Git/GitHub?
 
 At its core, Git is version control software. To install: 
 - Go to [the download link](https://git-scm.com) and follow the instructions
@@ -62,9 +62,9 @@ If your local repo is behind your remote one, you can sync your local one up to 
 
 ### Actually Using GitHub
 
-Chances are very high that you will rarely actually use the command line to do all your version control; the vast majority of IDEs have integrated git capabilites, and you'll use it through those (it's much easier). All the concepts are still the same (with adding, committing, pushing, pulling, etc.), but most of them will use a more visual representation (and they look nicer). 
+Chances are very high that you will rarely actually use the command line to do all your version control; the vast majority of IDEs have integrated git capabilities, and you'll use it through those (it's much easier). All the concepts are still the same (with adding, committing, pushing, pulling, etc.), but most of them will use a more visual representation (and they look nicer). 
 
-### Group work: Forks, Pull Requests, and Merge Conflicts
+### Group Work: Forks, Pull Requests, and Merge Conflicts
 
 A __fork__ is a personal copy of any repository. The fork is where all your local changes will be saved when you push changes from your local repo. It is very bad practice to upload your changes straight to the master branch; always push to your fork first, and then merge them later, once you've confirmed everything is as intended. 
 
@@ -94,4 +94,4 @@ Generally, dependencies take up a lot of space. These should be specified in you
 
 ## Next Week
 
-Next Thursday is the Club & Org fair; We will still have a meeting, but Christian and Lavender will be at the club fair to promote the club. The meeting will be a more relaxed meeting with LeetCode problems. 
+Next Thursday is the Club & Org fair; we will still have a meeting, but Christian and Lavender will be at the club fair to promote the club. The meeting will be more relaxed with LeetCode problems. 

@@ -29,7 +29,7 @@ tags = ['meeting', 'Dev-C++', 'C-C++', 'IDE', 'VS Code']
 
 ### What is Dev-C++?
 
-Dev C++ is an IDE for the C and C++ programming languages. It was originally released in 1998 and has had several forks since. This IDE is recommended by the professors on campus.
+Dev-C++ is an IDE for the C and C++ programming languages. It was originally released in 1998 and has had several forks since. This IDE is recommended by the professors on campus.
 
 ### Benefits of Dev-C++
 
@@ -41,7 +41,7 @@ It is VERY outdated. This IDE is lacking:
 - Version control integration
 - Syntax highlighting
 - Meaningful extensions
-- Comprenhensive code completion 
+- Comprehensive code completion 
 - Features and refinements from newer GCC compilers
 
 ### Dev-C++ is LITERALLY broken!
@@ -67,7 +67,7 @@ The easiest way to compile C/C++ programs is with a Makefile. To install make us
 ### Need an IDE?
 
 * [Visual Studio](https://visualstudio.microsoft.com/downloads/)
-* [Jetbrains CLion](https://www.jetbrains.com/clion/) 
+* [JetBrains CLion](https://www.jetbrains.com/clion/) 
     * This IDE is paid, but it can be accessed for free with the GitHub student pack.
 * [Code::Blocks](https://www.codeblocks.org/downloads/) 
     * This has a lot of the same problems as Dev-C++, but it does not delete your code!

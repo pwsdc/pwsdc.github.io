@@ -29,7 +29,7 @@ We want to do workshops and presentations during the semester and coding topics.
 
 The following are some topics different officers may cover.
 
-- Christian: Code Styling, asp.net
+- Christian: Code Styling, ASP.NET
 - Luke: TypeScript
 - Karl: React, Git, Docker, Freeplane, Anki
 
@@ -43,11 +43,11 @@ We aren't sure how much we will get from SAI, but it may be from $100 to $200 do
 
 ### Discord Bot
 
-Karl is looking for collaborators and ideas for the discord bot. May do a summer workshop on it at some point.
+Karl is looking for collaborators and ideas for the Discord bot. May do a summer workshop on it at some point.
 
 ### PennWest CompSci Program
 
-We discussed some parts of the program that could use improvement. We think git/GitHub should be taught earlier and continously; it could be integrated into virtually all coding classes. It was one of the main technologies that industry professionals said they saw lacking in graduates. Christian thinks agile development could be taught more formally and earlier, though Karl thought it wasn't as important as Git/GitHub.
+We discussed some parts of the program that could use improvement. We think Git/GitHub should be taught earlier and continuously; it could be integrated into virtually all coding classes. It was one of the main technologies that industry professionals said they saw lacking in graduates. Christian thinks agile development could be taught more formally and earlier, though Karl thought it wasn't as important as Git/GitHub.
 
 ### Next Meeting
 
@@ -67,7 +67,7 @@ Ask if anyone has started prepping presentations, continue to decide what presen
 
 Is the calendar working for us? Are there other options?
 
-### Treasury follow up
+### Treasury Follow Up
 
 Christian is going to ask Jess about SAI and budgets. 
 
@@ -85,6 +85,6 @@ Christian is going to ask Jess about SAI and budgets.
 - Can we mention the winner on the website?
 - Move 2023 April Fools Jam to regular "Posts"?
 - Make a top-level page for the 2023 Fall Programming Club Pizza Party?
-- Creating content for the "About" page of the programming club?
+- Creating content for the "About" page of the Programming Club?
 
 Do we want to switch frameworks? React?

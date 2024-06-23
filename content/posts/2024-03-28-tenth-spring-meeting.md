@@ -8,7 +8,7 @@ tags = ['presentation', 'internship', 'career', 'recruitment']
 ***
 # Overview
 - Attendance
-- Presentation
+- IT Audit Division Presentation
 ***
 ## Attendance
 - Abu Shettima
@@ -22,14 +22,14 @@ tags = ['presentation', 'internship', 'career', 'recruitment']
 - Tim DeFoor, PA's 52nd elected Auditor General and the first African American Auditor General in the state's history
 - Auditor General has been the Commonwealth's fiscal watchdog since 1810, responsible for ensuring that taxpayer dollars are spent legally and properly
 - Mission: to serve the people of Pennsylvania by improving government accountability, transparency, and the effective use of taxpayer dollars
-### Audit Reponsibilites
+### Audit Responsibilities
 4 types:
 - Financial Audits
 - Performance Audits
 - Attestation Audits
 - Compliance Audits
 ### Internship and Employment Opportunities
-- Gain Hands-on experience in Commonwealth auditing functions
+- Gain hands-on experience in Commonwealth auditing functions
 - Earn $16.86/hr, while making a difference
 - Opportunity to secure full-time employment & a rewarding career in public service
 
@@ -37,7 +37,7 @@ Sophomores and beyond are capable of applying. Their program is called the "Inte
 
 They want you to be minimally qualified (at least 2.5 GPA), and be good at looking at details and at numbers. After being accepted into an internship, you can complete 900 hours on your own time and then they can extend a full-time offer to you once you graduate. 
 
-They emphasize that the schedule is very flexible; the mentor will walk you through basic daily activities (such as putting in time sheets, recording your activites). The IT audit division is completely remote (except for giving presentations like they did today). The process from going from an intern to a full-time employee was easy (for Austin, another speaker). They treat interns more like full employees, and the work-life balance for full-time employees is good. 
+They emphasize that the schedule is very flexible; the mentor will walk you through basic daily activities (such as putting in time sheets, recording your activities). The IT audit division is completely remote (except for giving presentations like they did today). The process from going from an intern to a full-time employee was easy (for Austin, another speaker). They treat interns more like full employees, and the work-life balance for full-time employees is good. 
 ### Careers
 - Pay increases, incentive programs
 - Flexible schedules, work from home options
@@ -61,10 +61,10 @@ She started almost exactly one year ago; she applied late December of 2022; she 
 **Q:** Do you have to submit separate applications for different bureaus?  
 **A:** There are two application links that are live currently. There are 2 links on [the PA Auditor General website](https://www.paauditor.gov/careers); you can apply to both, but after your application is screened, you are eligible for any bureau. 
 
-**Q:** What are some technical skills or experiences that students need?  
+**Q:** What are some technical skills or experience that students need?  
 **A:** From an entry-level perspective, you just need to be minimally qualified. You don't need to be any specific major, you only need just 12 credits in any of the related fields. A basic Excel and Word knowledge is enough, as well as other Microsoft Suite applications. Written communication is very important, sometimes more important than the rest of the work.
 
-**Q:** How difficult is it as a senior to do the Intern 2 Hire progam?  
+**Q:** How difficult is it as a senior to do the Intern 2 Hire program?  
 **A:** You do have to essentially become a full-time employee to get at the 900 hour requirement, although you can do a lot of it during the summer, and that's why there are three months post-graduation to complete them. 
 
 **Q:** In general, how many people are hired (for internships and full-time employees)?  

@@ -24,12 +24,12 @@ tags = ['meeting', 'presentation', 'treasury']
 
 - Luke is interested in doing a presentation regarding booting from a Linux partition.
 - Christian is interested in doing a test-driven-development presentation.
-- A VSCodium or VSCode presentation could be good.
+- A VSCodium or VS Code presentation could be good.
 
 ### Docker Presentation
 
 - The Docker presentation Karl did was well received.
-- If we were to add a Docker setup to the example repo, C#/asp.net was suggested for a few reasons:
+- If we were to add a Docker setup to the example repo, C#/ASP.NET was suggested for a few reasons:
     1. It ties nicely into the C based curriculum at PennWest
     2. A lot of employers seem to want it
     3. It's a nice language
@@ -51,11 +51,11 @@ tags = ['meeting', 'presentation', 'treasury']
 - People could contribute front end designs
 - Anyone interested in the website will meet on Thursday @5:00 PM to talk about stacks and technologies
 
-_Note_: The website repo is started. It's a React app. Check out [the repo here](https://github.com/pwsdc/new-website). Contributions welcome.
+_Note_: The website repo is started. It's a React app. Check out [the repo here](https://github.com/pwsdc/new-website). Contributions are welcome.
 
 We know we want to make sure the website can still support content in markdown format.
 
-# Agenda Next Meeitng
+# Agenda Next Meeting
 
 ### Game Club Game Jam
 

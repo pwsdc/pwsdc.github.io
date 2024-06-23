@@ -10,7 +10,8 @@ tags = ['IDE',  'events', 'elections']
 - Attendance
 - What is a good IDE?
 - General Discussion
-- Next week
+- Next Week
+***
 
 ## Attendance
 - Abu Shettima
@@ -22,12 +23,12 @@ tags = ['IDE',  'events', 'elections']
 
 ## What is a good IDE?
 ### Crimson Editor
-- The problem with this editor is that it is old and not widely used.
-- However, that does not necessarily make it a bad choice if someone needs a text editor.
+- The problem with this editor is that it is old and not widely used
+- However, that does not necessarily make it a bad choice if someone needs a text editor
 ### Dev C++
-- One should never use this IDE! We had a [previous meeting](/posts/2024-02-15-fifth-spring-meeting) dedicated to discussing the drawbacks to using this IDE.
+- One should never use this IDE! We had a [previous meeting](/posts/2024-02-15-fifth-spring-meeting) dedicated to discussing the drawbacks to using this IDE
 ### Visual Studio
-- This option is an actual IDE that contains debugging and performance checking tools.
+- This option is an actual IDE that contains debugging and performance checking tools
 - Has built-in C# and Nuget support
 - Recommended in Assembly and Cobol courses at PennWest California
 - However, this IDE does contain a significant learning curve
@@ -35,17 +36,17 @@ tags = ['IDE',  'events', 'elections']
 - These are both lightweight code editors
 - While they are technically not IDEs, they are fully customizable with a high plugin availability
 - These are popular editors with plenty of support and documentation
-- Similarly to Visual Studio, these editors contain a learning curve. However, it is not as significant.
+- Similarly to Visual Studio, these editors contain a learning curve. However, it is not as significant
 - NeoVim is slightly faster than Vim
 ### Xcode
 - Contains built-in Swift support
-- Has native support with modern Apple architecture. 
+- Has native support with modern Apple architecture
 - Easy compiling for macOS and iOS devices
 - Supports LSP and other plugins
 ### Notepad ++
 - Lightweight text editor
 - Similarly to VSCode, this is not technically an IDE
-- Unlike VSCode, this does not have support for most plugins.
+- Unlike VSCode, this does not have support for most plugins
 - However, it has macro capabilities and autocomplete (naive complete without LSP)
 ## General Takeaway
 Overall, one should pick an IDE that is modern and widely used.
@@ -60,5 +61,5 @@ Overall, one should pick an IDE that is modern and widely used.
 - A goal for next year is to recruit Freshman students. We should work towards helping them with any problems they are facing in lower-level classes.
 - Discussed ways to navigate group dynamics in programming classes. Before a single line of code is written, make a plan! Think of all functions in advance and determine what they do and what parameters they take in. That way, functions can be distributed amongst group members and they will not have to worry about whether or not the other ones actually exist yet.
 
-## Next week
+## Next Week
 - Next week, we will be having a meeting on Thursday at 11 AM in Eberly 342.

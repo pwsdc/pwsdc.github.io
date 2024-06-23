@@ -13,7 +13,7 @@ tags = ['meeting', 'presentation', 'schedule']
 - Attendance
 - Room Details
 - First Week Meeting
-- Club/Organization Fair
+- Club Fair
 - Commuters
 - Coding Competition
 - Club Project Attempts

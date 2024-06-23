@@ -11,7 +11,7 @@ tags = ['presentation']
 # Overview
 
 - Attendance
-- Academic Calendar Overview
+- Academic Calendar/Meetings Overview
 - Next Week
 
 ***

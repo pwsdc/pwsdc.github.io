@@ -61,7 +61,7 @@ We applied the new logo and redid the server name.
 - Motion to adopt logo, unofficially rename club (4-0)
 - Motion to set meeting time to 11:00 AM on Thursdays this semester (4-0)
 
-# Agenda Next meeting
+# Agenda Next Meeting
 
 - Renaming GitHub
 - Renaming Website

@@ -15,19 +15,19 @@ tags = ['meeting', 'advisor', 'recruitment']
 
 ## Discussions
 
-- Re: Constitution; base general format on other club's constitution
+- Re: Constitution; base general format on other club's constitutions
     - Karl has started a [constitution repo](https://github.com/pwsdc/constitution)
 
 - Discussed adding second advisor
     - Must be PennWest faculty/staff
     - will be able to run club longer
-    - Dr. Kovalchik 
+    - Dr. Kovalchick 
     - in with CIS dept
 
 - Heavy recruitment during semester
-    - focus on freshman/sophmores
+    - focus on freshman/sophomores
 
-- Holding of on having GitHub as requirement for active membership; possibly just 2 meetings or even keeping at 1
+- Holding off on having GitHub as requirement for active membership; possibly just 2 meetings or even keeping at 1
   - workshops may help attract members
 
 - Continue teaching GitHub, have git workshops
@@ -39,7 +39,7 @@ tags = ['meeting', 'advisor', 'recruitment']
         - eg breakpoints, debugger, print statements
     - Makefiles
     - Rotate who creates workshop
-    - Javascript/Typescript
+    - JavaScript/TypeScript
     - Markdown
 
 - Ideas for new member recruitment
