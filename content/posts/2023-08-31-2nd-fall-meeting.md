@@ -8,7 +8,7 @@ tags = ['introduction', 'elections', 'suggestions', 'content']
 
 # Discussions
 
-- Enjoyed a pizza party
+- Enjoyed a pizza party.
 - Talked about primary projects for the club (game or application) to focus on. Robert opened a Google Forms post on the Discord server. Club members were given the chance to provide ideas for this project.
 - Members were reminded that formal election for officers will be held at the end of this semester.
 - We need ideas for merchandise (hats or mouse pads)?

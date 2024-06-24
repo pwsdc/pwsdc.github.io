@@ -50,7 +50,7 @@ The solution presented in the video is to go "old-school", by actually communica
 
 ### Dr. Menon's Recommendation
 
-Our advisor, Dr. Menon, recommeneded taking a course in Generative AI. She feels it is more beneficial to learn and adapt to it, rather than trying to fight it. We will post links to Generative AI courses in the Club Discord.
+Our advisor, Dr. Menon, recommended taking a course in Generative AI. She feels it is more beneficial to learn and adapt to it, rather than trying to fight it. We will post links to Generative AI courses in the Club Discord.
 
 ## Next Week
 

@@ -27,7 +27,7 @@ tags = ['meeting', 'presentation', 'resume', 'internship']
 
 ## Resume/Internships Presentation
 
-We plan to have someone from the Career Center have a presentation and a resume workshop on the 29th this month. Plan to have a resume available to review for a workshop (a good source is [resumake](resumake.io))
+We plan to have someone from the Career Center have a presentation and a resume workshop on the 29th this month. Plan to have a resume available to review for a workshop (a good source is [Resumake](https://resumake.io)).
 
 Nowadays, resumes are a little different than they used to be. Companies are now getting resumes from all over the world for any roles they post. Because there are just way too many resumes to go through by hand, they use bots to really quickly narrow down the amount of resumes to something manageable by hand.
 

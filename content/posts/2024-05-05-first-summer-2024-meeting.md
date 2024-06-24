@@ -3,7 +3,7 @@ title = '1st Summer 2024 Meeting'
 date = 2024-05-05T21:50:46-04:00
 draft = false
 summary = 'club meeting, plans going forward'
-tags = ['meeting', 'constitution', 'presentation']
+tags = ['meeting', 'constitution', 'presentation', 'discord', 'advisor']
 +++
 
 ***
@@ -28,11 +28,11 @@ tags = ['meeting', 'constitution', 'presentation']
 
 ## What are Summer Meetings?
 
-We will be holding summer meetings so the officers can prepare for the fall semester and so anyone can join and hang out. For each meeting, we will have an agenda to follow. Once we're done with items on the agenda, the floor will be open for anyone to present anything (such as personal projects, internships, or just something interesting). This specifc meeting was more "off the cuff", we will aim to have more structured meetings going forward.
+We will be holding summer meetings so the officers can prepare for the fall semester and so anyone can join and hang out. For each meeting, we will have an agenda to follow. Once we're done with items on the agenda, the floor will be open for anyone to present anything (such as personal projects, internships, or just something interesting). This specific meeting was more "off the cuff", we will aim to have more structured meetings going forward.
 
 ## Constitution
 
-The current club constitution has not been updated for a long time and needs major improvements. We are aiming to overhual the constitution during the summer.
+The current club constitution has not been updated for a long time and needs major improvements. We are aiming to overhaul the constitution during the summer.
 
 Our first step is to understand what's in the current constitution. We feel it would be reckless to try to make changes if all the officers do not have a thorough understanding of its current state. 
 
@@ -58,4 +58,6 @@ Dr. Menon reached out to us about having CIS students present various topics in 
 
 ## Next Meeting
 
-We aim to do a meeting on Saturday May 11, 2024 at 7 PM. An announcement along with a meeting agenda will be posted closer to the meeting date. Currently, we aim to discuss the constitution articles we looked into, any feedback we've received from reaching out to people, and a meeting time for the fall semester.
+We aim to do a meeting on **Saturday May 11, 2024** at **7 PM**, anyone is welcome to join!
+
+Currently, we plan to discuss the constitution articles we looked into, any feedback we've received from reaching out to people, and a meeting time for the fall semester.

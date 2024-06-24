@@ -29,7 +29,7 @@ All positions except Secretary were uncontested; here are the results from elect
 - Secretary: Lavender Wilson
 ## Club Direction
 We discussed what kinds of things that we want the club to be for. Some items that were mentioned:
-- Having some small supplimental instruction (eg. Git/Github)
+- Having some small supplemental instruction (eg. Git/GitHub)
 - Providing help for specific courses
 - Sharing personal projects and collaboration
 - Branching out a little bit to related topics (such as watching movies or playing games)

@@ -9,7 +9,7 @@ tags = ['meeting', 'presentation', 'academics', 'git', 'Dev-C++', 'ide', 'VS Cod
 # Overview
 - Attendance
 - Why You Should Try C#
-- PennWest Adoption of Git and VSCode
+- PennWest Adoption of Git and VS Code
 ***
 ## Attendance
 - Abu Shettima
@@ -31,7 +31,7 @@ tags = ['meeting', 'presentation', 'academics', 'git', 'Dev-C++', 'ide', 'VS Cod
 - Essentially the same as JRE
 - Currently up to .NET Core 8, .NET 4 in LTS (long-term support)
 ### Why Should You Use It?
-- It's a very general purpose OOP lanugage
+- It's a very general purpose OOP language
 - Supports implicitly typed variables (`var` keyword)
 - Has massive support for many libraries with package manager
 - Supports strong structure using namespaces
@@ -50,8 +50,8 @@ namespace DTC.Model {
 }
 ```
 
-# Git and VSCode adoption
-We discussed inviting several professors to a club meeting in order to convince them to advocate for teaching students how to use Git (and maybe GitHub or another online repo storage provider), as well as adopting VSCode (instead of Dev-C++) as the primary text editor that students use. 
+# PennWest Adoption of Git and VS Code
+We discussed inviting several professors to a club meeting in order to convince them to advocate for teaching students how to use Git (and maybe GitHub or another online repo storage provider), as well as adopting VS Code (instead of Dev-C++) as the primary text editor that students use. 
 
 There are so many benefits of making these changes, and not implementing them keeps current students in the past in terms of what software/technology they'll actually be using once they get a job. 
 

@@ -21,7 +21,7 @@ tags = ['meeting', 'presentation', 'senior project']
 - Matthew Williams
 - Paul Shriner
 - Luke Vukovich
-## Senior Projects
+## Senior Project Presentations
 Two groups quickly presented their senior project slides to the club.
 ### DeckTechCentral
 DTC is a Magic: The Gathering deck list management system. It aims to allow experienced players to build their own decks.

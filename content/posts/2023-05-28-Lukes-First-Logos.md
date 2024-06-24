@@ -75,13 +75,13 @@ Friday @ 5:00 PM (Voted 5-0)
 - Christian would be down to switch website framework to React or Angular
 - Karl still doesn't have appropriate Discord permissions
 
-# Agenda Next Meeitng
+# Agenda Next Meeting
 
 (very similar to last week)
 
 ### Logo and Rebranding
 
-Discuss the status of logo and rebranding.
+- Discuss the status of logo and rebranding.
 
 ### Presentations
 
@@ -92,7 +92,7 @@ Discuss the status of logo and rebranding.
 
 - Calendar working for us? Can someone be in charge of adding stuff to it?
 
-### Treasury follow up
+### Treasury Follow Up
 
 - Email from SAI
 

@@ -25,7 +25,7 @@ tags = ['presentation']
 - Lavender Wilson
 - Jonathan Buckel (for the last few minutes)
 
-## Finalizing Plans
+## Finalizing Meeting Plans
 
 Christian's ideas:
 - Making the most out of your internship

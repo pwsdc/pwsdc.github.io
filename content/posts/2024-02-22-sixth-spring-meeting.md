@@ -25,7 +25,7 @@ tags = ['meeting', 'leetcode']
 - Paul Shriner
 - Zachary Teixido
 
-## LeetCode
+## LeetCode Problems
 
 Today we went over two LeetCode problems: #55 ("Jump Game") [here](https://leetcode.com/problems/jump-game/), as well as #45 ("Jump Game II") [here](https://leetcode.com/problems/jump-game-ii/).
 

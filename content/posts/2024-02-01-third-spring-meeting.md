@@ -17,7 +17,7 @@ tags = ['meeting', 'presentation', 'malware']
 	- Viruses
 	- Worms
 	- Ransomware
-	- History of Antivirus
+	- Brief History of Antivirus
 	- How is Malware Made?
 	- How to Protect Yourself
 - Next Week
@@ -38,11 +38,11 @@ tags = ['meeting', 'presentation', 'malware']
 - Zach Teixido
 - Zullikha Hassan
 
-## Malware
+## Malware Presentation
 
 ### What is Malware?
 
-Malware stands for "malicious software," and refers to any software that is harmful or intrusive. 
+Malware stands for "malicious software", and refers to any software that is harmful or intrusive. 
 Malware:
 - Has been around since the beginning of computing
 - Early malware had a style reminiscent of the demoscene
@@ -51,12 +51,12 @@ Malware:
 
 ### Types of Malware
 
-- __Virus__: Code that copies itself into other files and programs, allowing it to spread.
-- __Worm__: Similar to a virus, but can spread without the need of a human to enable it. 
-- __Ransomware__: Software that encrypts your data and demands payment as a ransom.
-- __Adware__: Displays unwanted advertisements.
-- __Spyware__: Gathers information about the user unknowingly.
-- __Rootkit__: Hides the existence of malware in a system.
+- __Virus__: Code that copies itself into other files and programs, allowing it to spread
+- __Worm__: Similar to a virus, but can spread without the need of a human to enable it.
+- __Ransomware__: Software that encrypts your data and demands payment as a ransom
+- __Adware__: Displays unwanted advertisements
+- __Spyware__: Gathers information about the user unknowingly
+- __Rootkit__: Hides the existence of malware in a system
 
 People tend to assume that malware will always destroy your computer; while they can, generally they pursue more nefarious means (such as stealing data or holding a system for ransom). 
 

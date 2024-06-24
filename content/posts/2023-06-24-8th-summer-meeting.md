@@ -71,7 +71,7 @@ tags = ['meeting', 'sai', 'schedule', 'events', 'merch', 'logo', 'advisor']
 - We tend to like Software Development Club
 - It's currently "Computer Programming Club"
 
-## Talk to Dr. Kovalchik
+## Talk to Dr. Kovalchick
 
 - Could help with promoting the club with CIS
 - We could ask her to be the 2nd faculty advisor

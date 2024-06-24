@@ -11,7 +11,7 @@ tags = ['meeting', 'code jam', 'leetcode']
 # Overview
 
 - Attendance
-- Announcements from club advisor
+- Announcements from Club Advisor
 - LeetCode Problems
 - Next Week
 
@@ -29,21 +29,19 @@ tags = ['meeting', 'code jam', 'leetcode']
 - Christian Messmer (at club fair)
 - Lavender Wilson (at club fair)
 
-## Announcements from club advisor
+## Announcements from Club Advisor
 
 The advisor for the Software Development Club (Dr. Menon) brought forward a few opportunities for events that our club could participate in.
 
 ### Pacise Programming Conference
 
-A programming contest will be held from April 5th - April 6th, 2024. If we want to particpate, we will need to allocate funds for travel expenses. The advisor indicated that she will look into determining the steps that we would need to take to prepare if we are interested.
+A programming contest will be held from April 5th - April 6th, 2024. If we want to participate, we will need to allocate funds for travel expenses. The advisor indicated that she will look into determining the steps that we would need to take to prepare if we are interested.
 
 ### Strike-a-Spark
 
 This event will be held at PennWest on April 17th, 2024. The advisor suggested that the students within the club who are in a Senior Project course could complete a poster to present their projects. Funding may need to be allocated for materials to complete poster presentations.
 
 ## LeetCode Problems
-
-### LeetCode
 
 The following LeetCode problems were covered during the meeting:
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)

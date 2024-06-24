@@ -73,7 +73,7 @@ Upload your local changes to GitHub. **Ensure your local repository is connected
 
 ## Git Integration with VS Code
 
-- When you open VS code, focus on the left-most panel. There should be an icon for "**source control**" (The icon resembles a tree with nodes).
+- When you open VS Code, focus on the left-most panel. There should be an icon for "**source control**" (The icon resembles a tree with nodes).
 - The GUI will provide ways to initialize Git, add untracked files, commit changes, and push commits.
 - The GUI is much more user friendly, but the console is much more powerful.
 

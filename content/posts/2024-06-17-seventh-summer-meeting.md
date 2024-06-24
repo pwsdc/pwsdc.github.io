@@ -27,15 +27,15 @@ tags = ['meeting', 'playdate', 'project', 'outreach']
 
 # GitHub Webhooks
 
-Paul updated the settings for the GitHub webhook, now the github-updates channel should be less annoying! Any unintended side effects should be reported to him as he has the required permissions on our GitHub organization to fix anything.
+Paul updated the settings for the GitHub webhook, now the github-updates channel should be less annoying! If there's any unintended side effects, report them to the officers!
 
 # Constitution Revisions
 
 Paul shared a OneDrive link to constitution revisions for officers to edit.
 
-Changes include:
+Changes so far:
 - Renamed the club from Programming Club to PennWest Software Development Club 
-- Updated university references from California University to PennWest California
+- Updated university references from California University/Cal U to PennWest California
 - Added general comments
 
 Officers should use the comment feature for changes and add notes on the last page for a collaborative effort.
@@ -84,4 +84,4 @@ We encourage anyone to suggest additional flyer ideas!
 # Next Week
 
 - Discuss the PlayDate club fair project idea with all officers and agree on a direction.
-- We will post the next meeting time on our Discord, feel free to drop by!
+- Be sure to watch the Discord for our next meeting time!

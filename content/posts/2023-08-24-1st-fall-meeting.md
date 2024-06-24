@@ -8,7 +8,7 @@ tags = ['introduction', 'elections', 'suggestions', 'content']
 
 # Attendance
 
-*Note: If we mispelled any names or didn't get your last name, our apologies, please let us know. We will also try to get it next meeting.*
+*Note: If we misspelled any names or didn't get your last name, our apologies, please let us know. We will also try to get it next meeting.*
 
 - Karl Miller
 - Luke Bates
