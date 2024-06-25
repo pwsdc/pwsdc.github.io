@@ -1,0 +1,11 @@
+<!--
+    this file can be used to add superscripted text into a post.
+
+    format:
+        < sup "REPLACE" >
+    usage: 
+        - encapsulate in double brackets
+        - replace text inside double quotes with text to superscript
+-->
+
+<sup>{{ .Get 0 | markdownify }}</sup>

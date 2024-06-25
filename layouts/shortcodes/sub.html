@@ -1,0 +1,11 @@
+<!--
+    this file can be used to add subscripted text into a post.
+
+    format:
+        < sub "REPLACE" >
+    usage: 
+        - encapsulate in double brackets
+        - replace text inside double quotes with text to subscript
+-->
+
+<sub>{{ .Get 0 | markdownify }}</sub>
