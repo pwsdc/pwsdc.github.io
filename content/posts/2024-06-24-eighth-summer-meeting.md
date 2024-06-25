@@ -21,9 +21,9 @@ tags = ['meeting', 'Playdate', 'club-fair', 'discussion']
 - Paul Shriner
 # General Discussion
 ## Unix Timestamps
-Discord can format unix timestamps in a [variety of ways](https://r.3v.fi/discord-timestamps/), which can be helpful for annoucements about time-sensitive events (such as club meetings).
+Discord can format unix timestamps in a [variety of ways](https://r.3v.fi/discord-timestamps/), which can be helpful for announcements about time-sensitive events (such as club meetings).
 
-Also, a fun fact: the current unix timestamp system will be overflowing (relatively) soon, an January 19, 2038, at 03:14 am. The results will be essentially the same as the Y2K phenomenon. 
+Also, a fun fact: the current unix timestamp system will be overflowing (relatively) soon, on January 19, 2038, at 03:14 am. The results will be essentially the same as the Y2K phenomenon. 
 
 # Playdate Project
 ## Ideas
