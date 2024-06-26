@@ -48,6 +48,11 @@ tags = ['example', 'tags', 'here']
 
 Content for the file will go under the yaml front matter. It should follow markdown syntax.
 
+## Shortcodes
+
+- Superscript: see `layouts/shortcodes/super.html`
+- Subscript: see `layouts/shortcodes/sub.html`
+
 ## Making Changes to the Site
 
 GitHub Actions has been set up to build and deploy the site on the main repo. Simply push your changes, make a pull request, then when its merged the changes will be shown in a short time.
