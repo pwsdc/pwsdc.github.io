@@ -30,9 +30,9 @@ While some people may make it seem like AI will completely take over certain typ
 LLMs (large language models) are not much more than overpowered text predictors, and they draw their responses from a huge amount of data scraped from the internet. 
 # Playdate Project
 ## Getting Started
-For the development process, Jon reccommended having a more stage-style approach (working on the most important things first, and then branching off into the smaller details). 
+For the development process, Jon recommended having a more stage-style approach (working on the most important things first, and then branching off into the smaller details). 
 
-He also reccommends using todo/kanban lists to clearly outline what all needs to be done. 
+He also recommends using todo/kanban lists to clearly outline what all needs to be done. 
 
 Having a specific design document will be very helpful to avoid misunderstandings with details; we'll most likely have a shared Word document describing them. 
 ## Dividing Work
