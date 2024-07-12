@@ -1,5 +1,5 @@
 +++
-title = '2024 07 11 Tenth Summer Meeting'
+title = '10th Summer 2024 Meeting'
 date = 2024-07-11T20:27:03-04:00
 draft = false
 summary = 'continuing playdate game'
