@@ -28,4 +28,4 @@ We want to have at least one person going out to other clubs' tables to make con
 ## Room
 After some discussion, we decided to hold meetings in Eberly 342, like usual. Last semester we sometimes were locked out by the professor who was in the room before us, but since Lavender will be in the class right before (3:30-4:45 OOP), it shouldn't be a problem.
 ## First Few Meetings
-We want the first few meetings of the semester to be welcoming and easy for anybody to follow. We plan on talking about the club, playdate development, and lua, though this list may grow as we get more concrete ideas of how we want the meetings to go. 
+We want the first few meetings of the semester to be welcoming and easy for anybody to follow. We plan on talking about the club, Playdate development, and Lua, though this list may grow as we get more concrete ideas of how we want the meetings to go. 
