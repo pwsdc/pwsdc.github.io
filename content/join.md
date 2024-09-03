@@ -4,7 +4,7 @@ draft = false
 summary = 'Information on how to join the club'
 +++
 
-Howdy! We are glad to have you!
+Welcome! We are glad to have you!
 
 To become a current member of the club, you must attend **at least two meetings or events** in the semester. If you have any extenuating circumstances, let an officer know. 
 
@@ -12,7 +12,9 @@ We ask everyone to join our Discord server, and all current members to join our 
 
 # Weekly Meetings
 
-Meeting information will be updated for the Fall 2024 semester.
+Our main weekly meeting will be held on Tuesdays at 5 PM in Eberly 246.
+
+We will also hold smaller meetings to cover anything that wasn't done in the main weekly meeting, or simply as an "off-the-cuff" hangout. Times for such meetings will be posted on the Discord.
 
 # Discord
 
