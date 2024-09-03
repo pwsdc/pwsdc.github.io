@@ -46,7 +46,8 @@ We're going to be exploring a variety of topics, including:
 ## Meet the Officers
 Paul Shriner
 - President
-- (was catching up from previous section, paul remind me what you said)
+- Oversees everything for the club and is the main point of contact
+- Interested in anything technology related, plays some video games (both retro and modern)
 
 Matthew Williams
 - Vice president
