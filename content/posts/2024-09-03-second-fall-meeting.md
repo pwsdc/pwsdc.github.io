@@ -50,3 +50,4 @@ The SDK and its documentation are free to use under their [license agreement](ht
 # Next Week
 Next Week's meeting will be on **Tuesday**, **September 10th**, from **5-6 p.m.** 
 
+We'll be discussing ideas for a Playdate project to work on as a club, so make sure to brainstorm some game ideas!
