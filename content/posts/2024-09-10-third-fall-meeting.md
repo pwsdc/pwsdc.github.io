@@ -57,4 +57,4 @@ List of ideas from the meeting:
 # Next Week
 Next week's meeting will be on **Tuesday**, **September 17th** from **5-6PM**. 
 
-TODO (not sure what we're doing next week)
+Next week's topic will be deciding on one of the project ideas, fleshing it out, and starting development. 
