@@ -37,7 +37,7 @@ The following information was compiled from the presentation delivered by Victor
 - Has Employee Resource Groups and Various Affinity Networks
 ## Internship Program
 - Challenging assignments in a simulating work environment
-- Opportunities are avilable in a variety of IT departments
+- Opportunities are available in a variety of IT departments
 - Summer interdisciplinary project teams
 - Benefit from expert training, develop new skills, and gain experience to shape goals and aspirations
 - Each intern has a personal mentor
@@ -55,8 +55,8 @@ The following information was compiled from the presentation delivered by Victor
 - During past years, they have had to sort through thousands of applications for the internship program. This year, they are trying to target a select few schools for candidates instead, and ours is one of them!
 - It is strongly recommended that perspective candidates submit their applications as early as possible.
 
-# PlayDate Project
+# Playdate Project
 We went over the development milestones that were added to the project document during last week's optional meeting. A few minor adjustments were discussed and made, including the possibility of auto-fire and some more stretch goals.
 
 # Next week
-By next week, our goal is to hold an optional meeting at some point. The officers will create sprites for the PlayDate project and we will try to display them on screen. 
+By next week, our goal is to hold an optional meeting at some point. Next week’s meeting will be on **Tuesday, October 1st** from **5-6PM.** The officers will create sprites for the Playdate project and we will try to display them on screen. 
