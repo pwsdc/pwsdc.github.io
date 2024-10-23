@@ -1,5 +1,5 @@
 +++
-title = '2024 10 22 Ninth Fall Meeting'
+title = '9th Fall 2024 Meeting'
 date = 2024-10-23T11:37:23-04:00
 draft = false
 summary = 'asteroids direction/progress, meeting times'
@@ -56,6 +56,6 @@ We'll be doing a meeting talking about Linux! We'll discuss things like:
 - Terminal/CLI tool familiarity
 - Differences between distributions and desktop environments
 
-Several of those involved in the club use Linux on a daily basis and will be providing their thoughts and experiences with it, so don't be afraid to ask any questions!
+Several people in the club use Linux on a daily basis, and will provide their thoughts and experiences with it. Don't be afraid to ask any questions!
 
 The meeting will take place the same day and time as usual (Tuesday, 5-6p). 
