@@ -28,6 +28,8 @@ Members:
 - Michael Paterno
 # Playdate Progress
 Lavender made a pull request adding ship movement, which was lightly discussed. 
+# Firefox CVE 9.8 Zero-Day
+We watched a video about a recent use-after-free bug in Firefox that allowed remote code execution. It was quickly fixed, but be sure that you're on the most up-to-date version of Firefox (if you use it). 
 # Code Jam Idea
 Near the end of the meeting, Jon brought up the idea of having a timed code jam. The officers are considering having one, but have yet to figure out the details. 
 # Next Week
