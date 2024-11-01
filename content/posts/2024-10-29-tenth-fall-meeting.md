@@ -35,7 +35,7 @@ In the beginning, there was UNIX: it was strictly licensed and expensive, so peo
 ## Distributions
 Different distributions ("distro"s) of linux are essentially slightly different flavors of linux. Each is built for a specific purpose; some are made for servers, some are made to be easy to use for a normal peron. 
 
-There are a few main branches of linux that are the most popular: Debian (and/or Ubuntu), Fedora, and Arch.
+There are a few main families of linux that are the most popular: Debian (and/or Ubuntu), Fedora, and Arch.
 
 ### Debian
 Debian has a stable release cycle, meaning it gets big updates infrequently (typcially several months between). It is very old. It uses the `apt` package manager.
