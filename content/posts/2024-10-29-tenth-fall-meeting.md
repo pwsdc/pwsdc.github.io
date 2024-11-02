@@ -70,4 +70,6 @@ There are certain things that are just not possible on Linux. For example:
 - You will (almost certainly) encounter issues regarding drivers, devices, or some other obscure thing that you'll have to learn and research yourself
 - While there are first-party or even open-source versions of popular software, there is some software that there is no Linux substitute for
 # Next Week
-Since next Tuesday is election day, and most people will probably be busy in their hometowns voting, we'll most likely not have a meeting. 
+Since next Tuesday is election day, and most people will probably be busy in their hometowns voting, so we'll be doing the meeting over Discord (at the same time as usual).
+
+The meeting will be less focused/directed than usual.
