@@ -1,7 +1,7 @@
 +++
 title = '11th Fall 2024 Meeting'
 date = 2024-11-12T17:40:05-05:00
-draft = true
+draft = false
 summary = 'intro to version control'
 tags = ['git', 'version control', 'elections']
 +++
@@ -46,10 +46,13 @@ Git provides:
 These are files that exist in your working directory but are not being tracked by Git. They have not been added to the staging area and will not be included in commits unless explicitly added. You can use a ```.gitignore``` file to specify patterns for files that Git should ignore, preventing them from being tracked.
 
 ## Tracked Files
-Tracked files are files that Git is monitoring. They can be in one of the following stages: modified, staged, and committed.
+Tracked files are files that Git is monitoring and are already a part of the commit history. They can be in one of the following stages: modified, unmodified, staged, and committed.
 
 ### Modified
 The file has been changed in the working directory since the last commit, but those changes have not yet been staged for the next commit.
+
+### Unmodified
+The file has not been modified, meaning that the tracked file is the same as it is in the most recent commit.
 
 ### Staged
 The file has been modified and the changes have been added to the staging area (using ```git add```). It is ready to be included in the next commit.
@@ -58,11 +61,11 @@ The file has been modified and the changes have been added to the staging area (
 The changes in the staged files have been saved to the repository's history. This means that the changes are now part of the project's version history and can be shared with others.
 
 ## VS Code Integration
-Git version control can be utilized in VS Code. Changes in the file can be tracked, such as removals or additions, and then staged for commits. Lavendar showcased several features in VS Code, such as handling commits and branching along with merging commits.
-Someone with industry experience mentioned that it is unlikely that commits will directly be merged into 'main'.
+Git version control can be utilized in VS Code. Changes in the file can be tracked, such as removals or additions, and then staged for commits. Lavender showcased several features in VS Code, such as handling commits and branching along with merging commits.
+Kevin, who has industry experience, mentioned that it is unlikely that commits will directly be merged into 'main'.
 
 ## Merge Conflicts
-Merge conflicts occur when two different commits work on the same piece of code. As a result, Git does not know how to handle it, i.e which piece of code should be used moving forward. It is possible to handle merge conflicts in a merge editor, in which the reviewer can fix the conflict by writing a unified solution. Lavendar showcased an example of creating a merge conflict and resolving one in VS Code using the command line and the merge editor.
+Merge conflicts occur when two different commits work on the same piece of code. As a result, Git does not know how to handle it, i.e which piece of code should be used moving forward. It is possible to handle merge conflicts in a merge editor, in which the reviewer can fix the conflict by writing a unified solution. Lavender showcased an example of creating a merge conflict and resolving one in VS Code using the command line and the merge editor.
 
 ## Installing Git
 Git is integrated in VS Code. To use it system wide, Windows users must install Git from [here](https://git-scm.com/downloads). Make sure Git Bash is installed during this process!
