@@ -23,6 +23,7 @@ Members
 - Jocelyn Cotton (visitng)
 - Jonathan Buckel
 - Maddox Miller
+- Nikki Thompson (visitng)
 # Pizza Party
 For the last meeting, we didn't have any particular topics planned (since finals are next week). There is free pizza (and water). 
 # Next Semester Meeting Ideas
