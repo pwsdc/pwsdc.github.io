@@ -56,3 +56,15 @@ Content for the file will go under the yaml front matter. It should follow markd
 ## Making Changes to the Site
 
 GitHub Actions has been set up to build and deploy the site on the main repo. Simply push your changes, make a pull request, then when its merged the changes will be shown in a short time.
+
+## Maintaining the Site
+
+It is recommended to check these every so often. Make sure to test the site locally before deploying! 
+
+PaperMod can be updated by downloading the latest source [here](https://github.com/adityatelange/hugo-PaperMod/archive/refs/heads/master.zip) and extracting the files within `hugo-PaperMod-master` to `themes/PaperMod`.
+
+`.github/workflows/gh-pages.yml` is for GitHub Actions and is from PaperMod, the source is at `themes/PaperMod/.github/workflows/gh-pages.yml`. To update it, you will need to compare the changes manually. Do not overwrite the file directly as there are some custom changes (for example the source version has an exampleSite branch which our site doesn't).
+
+Hugo can be updated by changing the version number in `.github/workflows/gh-pages.yml`.
+
+`hugo.yaml` contains configuration information for the page (such as tabs in the header). More information can be found in PaperMod's documentation [here](https://github.com/adityatelange/hugo-PaperMod/wiki).
