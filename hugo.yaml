@@ -46,7 +46,7 @@ params:
   profileMode:
     enabled: true
     title: "PennWest Software Development Club" # optional default will be site title
-    subtitle: "Come explore software development with us!"
+    subtitle: "Meetings in Eberly 110, Tuesdays at 5 PM"
     imageUrl: "img/logo.png" # optional
     imageTitle: "Club Logo" # optional
     imageWidth: 120 # custom size

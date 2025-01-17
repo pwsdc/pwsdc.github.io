@@ -12,7 +12,7 @@ We ask everyone to join our Discord server, and all current members to join our 
 
 # Weekly Meetings
 
-Our main weekly meeting will be held on Tuesdays at 5 PM in Eberly 110.
+The meeting time for the main weekly meeting can be found on the main page [here](/).
 
 We will also hold smaller meetings to cover anything that wasn't done in the main weekly meeting, or simply as an "off-the-cuff" hangout. Times for such meetings will be posted on the Discord.
 
