@@ -1,8 +1,8 @@
-baseURL: https://pwsdc.github.io/
+baseURL: https://pwpc.github.io/
 languageCode: en-us
 theme: ["PaperMod"]
-title: Software Dev. Club
-copyright: Made by [PWSDC](https://github.com/pwsdc)
+title: Programming Club
+copyright: Made by [PWPC](https://github.com/pwsdc)
 
 outputs:
   home:
@@ -45,8 +45,8 @@ params:
 
   profileMode:
     enabled: true
-    title: "PennWest Software Development Club" # optional default will be site title
-    subtitle: "Meetings in Eberly 110, Tuesdays at 5 PM"
+    title: "PennWest Programming Club" # optional default will be site title
+    subtitle: "Meetings in Eberly 110, Wednesdays 11am-noon"
     imageUrl: "img/logo.png" # optional
     imageTitle: "Club Logo" # optional
     imageWidth: 120 # custom size
