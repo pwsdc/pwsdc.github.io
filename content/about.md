@@ -38,10 +38,6 @@ Programming Club was founded in 2019. The club's initial goal was to provide a s
 * Ryan Merow
 * Michael Gorse
 
-## Original Logo
-
-{{< figure align=center src=/img/old_logo.png width="300">}}
-
 # Club Documents
 
 Documents, such as our constitution, can be found on our Engage page or on the Club Discord (links are on [*Join the Club*](/join)).
