@@ -24,8 +24,7 @@ Our Discord server is where information about the club is posted and where commu
 
 You can also scan this QR Code:
 
-<!--- TODO: replace (or make new version?) --->
-{{< figure align=center src=/img/Discord-Invite.png width="500">}}
+{{< figure align=left src=/img/ProgrammingClubInvite.png width="500">}}
 
 # Engage
 

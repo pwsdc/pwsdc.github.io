@@ -1,7 +1,8 @@
 # TODO
-# -[] update club name texts
+# -[x] update club name texts
 # -[] update club logos
-# -[] update qr code in join.md
+# -[x] update qr code in join.md
+# -[] make small round logo for homepage (?)
 
 
 baseURL: https://pwpc.github.io/
