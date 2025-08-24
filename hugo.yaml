@@ -53,7 +53,8 @@ params:
     enabled: true
     title: "PennWest Programming Club" # optional default will be site title
     subtitle: "Meetings in Eberly 110, Wednesdays 11am-noon"
-    imageUrl: "img/logo.png" # optional
+    imageUrl: "img/old_logo.png" # optional
+    # ^^ TODO: make this not look like the worst thing ever
     imageTitle: "Club Logo" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
