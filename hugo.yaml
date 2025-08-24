@@ -47,7 +47,7 @@ params:
   defaultTheme: auto # Switch based on browser theme
 
   label: # Add logo to header
-    icon: "img/logo.png"
+    icon: "img/old_logo.png"
 
   profileMode:
     enabled: true
