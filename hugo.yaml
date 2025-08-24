@@ -1,9 +1,9 @@
 # TODO
 # -[x] update club name texts
-# -[] update club logos
+# -[x] update club logos
 # -[x] update qr code in join.md
 # -[] make small round logo for homepage (?)
-# -[] change theme button colors to match logo
+# -[x] change theme button colors to match logo
 
 
 baseURL: https://pwpc.github.io/
