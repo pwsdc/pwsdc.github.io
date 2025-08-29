@@ -13,23 +13,23 @@ No matter your interests or experience, we welcome you to [join the club](/join)
 To facilitate our mission, we offer several opportunities to get involved:
 
 * **Weekly Meetings**
-  * Weekly Meetings will be held at least once a week during the Fall and Spring semesters at PennWest California. 
-  * Any in-person meeting will also be available virtually via Discord voice chat (let an officer know if you intend on attending virtually).
-  * The point of weekly meetings is to allow for exploration, experimentation, and discussion with others in a relaxed environment. 
+  * Weekly meetings are held at least once a week during the Fall and Spring semesters at PennWest California. 
+    * In-person meetings are also available virtually via Discord voice chat (let an officer know if you intend on attending virtually).
+  * Weekly meetings are for exploration, experimentation, and discussion with others in a relaxed environment. 
   * Some activities we've done include exploration of topics, coding challenge problems, field trips, workshops, and games/contests.
 * **Events**
-  * We aim to have at least one event during each semester. These will be on a larger-scale than weekly meetings, with the goal of greater exploration and collaboration.
-  * A notable event we've done is a Code Jam, where participants come up with a solution for a given prompt.
+  * We aim to have at least one event during each semester. These will be on a larger scale than weekly meetings, with the goal of greater exploration and collaboration.
+  * An example of an event we've done is a Code Jam, where participants come up with a solution for a given prompt.
   * You have the chance to win prizes!
 * **Strong Discord Server**
-  * Our Discord Server is one of our greatest assets due to its vast network of current students and alumni.
+  * Our Discord server is one of our greatest assets due to its vast network of current students and alumni.
   * If you have any question about software development, there is certainly someone who can answer it or point you in the right direction.
   * We highly recommend exploring the channels and participating in discussion.
   * Feel free to hop in the voice chat with others on the server!
 
 # Origin
 
-Software Development Club was founded as the Cal Programming Club in 2019. The club's initial goal was to provide a space for Cal U Computer Science students to connect and get help with their classes.
+Programming Club was founded in 2019. The club's initial goal was to provide a space for Cal U Computer Science students to connect and get help with their classes.
 
 ## Founding Officers
 
@@ -37,10 +37,6 @@ Software Development Club was founded as the Cal Programming Club in 2019. The c
 * Anthony Carrola
 * Ryan Merow
 * Michael Gorse
-
-## Original Logo
-
-{{< figure align=center src=/img/old_logo.png width="300">}}
 
 # Club Documents
 

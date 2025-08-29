@@ -1,8 +1,16 @@
-baseURL: https://pwsdc.github.io/
+# TODO
+# -[x] update club name texts
+# -[x] update club logos
+# -[x] update qr code in join.md
+# -[] make small round logo for homepage (?)
+# -[x] change theme button colors to match logo
+
+
+baseURL: https://pwpc.github.io/
 languageCode: en-us
 theme: ["PaperMod"]
-title: Software Dev. Club
-copyright: Made by [PWSDC](https://github.com/pwsdc)
+title: Programming Club
+copyright: Made by [PWPC](https://github.com/pwsdc)
 
 outputs:
   home:
@@ -41,13 +49,14 @@ params:
   defaultTheme: auto # Switch based on browser theme
 
   label: # Add logo to header
-    icon: "img/logo.png"
+    icon: "img/old_logo.png"
 
   profileMode:
     enabled: true
-    title: "PennWest Software Development Club" # optional default will be site title
-    subtitle: "Meetings in Eberly 110, Tuesdays at 5 PM"
-    imageUrl: "img/logo.png" # optional
+    title: "PennWest Programming Club" # optional default will be site title
+    subtitle: "Meetings in Eberly 110, Wednesdays 11am-noon"
+    imageUrl: "img/old_logo.png" # optional
+    # ^^ TODO: make this not look like the worst thing ever
     imageTitle: "Club Logo" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
