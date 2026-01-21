@@ -16,7 +16,7 @@ tags = ['meeting', 'ai', 'introduction', 'schedule']
 # Attendance
 - Jonathan Buckel
 - Lavender Wilson
-- Michael Paterno
+- Michael Bradford
 - Josh Biehl
 - Ravi Dressler
 - Maddy Kowalski
